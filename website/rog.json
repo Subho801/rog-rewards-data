@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T13:22:59.311796+00:00",
-  "count": 584,
+  "updated": "2026-08-03T04:11:02.648756+00:00",
+  "count": 578,
   "items": [
     {
       "id": 2676,
@@ -4383,16 +4383,6 @@
       "reward_url": null
     },
     {
-      "id": 2823,
-      "title": "5 USD Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/2067b2b8-9324-42a1-83f1-f07867f6512c/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
       "id": 5159,
       "title": "Sniper Elite: Resistance",
       "status": 4,
@@ -4443,16 +4433,6 @@
       "reward_url": null
     },
     {
-      "id": 5295,
-      "title": "10 USD Global darcekova karta ",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/44e03b3b-fea7-4813-8871-b4abed7a608d/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
       "id": 5376,
       "title": "10 USD Globalna GoGift darcekova karta ",
       "status": 1,
@@ -4493,16 +4473,6 @@
       "reward_url": null
     },
     {
-      "id": 5546,
-      "title": "5 USD Global darčeková karta ",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/23b80c82-605a-4398-b263-719cd414647b/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
       "id": 5547,
       "title": "10 USD Global darčeková karta ",
       "status": 1,
@@ -4539,36 +4509,6 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/5b0d1e49-224a-49ba-afa0-677402c29a16/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
-      "id": 5612,
-      "title": "5 USD Global darčeková karta ",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/daa5afb3-2af2-436b-81ee-ebd758887cfd/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
-      "id": 5613,
-      "title": "5 USD Global darčeková karta",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5299d74d-330c-4639-923a-7288f36e1a1e/",
-      "region": "sk",
-      "reward_url": null
-    },
-    {
-      "id": 5614,
-      "title": "5 USD Global darčeková karta ",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/bfe8feba-b8b5-4f09-a7bc-5e7e28a1bcbe/",
       "region": "sk",
       "reward_url": null
     },
