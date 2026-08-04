@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:45:14.032281+00:00",
+  "updated": "2026-08-04T15:49:21.574060+00:00",
   "count": 585,
   "items": [
     {
@@ -1225,7 +1225,7 @@
     {
       "id": 5707,
       "title": "Knock'em Out",
-      "status": 1,
+      "status": 3,
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3f634bfd-d05c-49ac-9acd-13cd7e477106/",
