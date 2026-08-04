@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T02:00:15.882176+00:00",
-  "count": 578,
+  "updated": "2026-08-04T02:37:34.778083+00:00",
+  "count": 579,
   "items": [
     {
       "id": 2676,
@@ -2399,6 +2399,16 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4302b1a1-4b1f-491a-bb27-bf016e246e25/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5467,
+      "title": "Mystery Bundle (get 5 random games)",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/17f614ee-7100-404c-8c0e-5fcf5120129d/",
       "region": "my",
       "reward_url": null
     },
