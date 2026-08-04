@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T06:45:28.007166+00:00",
-  "count": 582,
+  "updated": "2026-08-04T07:05:16.648038+00:00",
+  "count": 585,
   "items": [
     {
       "id": 2676,
@@ -4319,6 +4319,36 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e280f499-5737-4d9c-b172-3971d032229b/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 5794,
+      "title": "Starfield",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/054ea1cb-cb61-405c-b2a7-6e9215255b9c/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 5795,
+      "title": "Pumpkin Jack",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6e8511dd-6196-4c97-95f5-62b1b0470904/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 5799,
+      "title": "Knock em Out",
+      "status": 1,
+      "cost": 300,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f1bbc78d-a11f-40ea-8f21-587f3c1020a1/",
       "region": "sg",
       "reward_url": null
     },
