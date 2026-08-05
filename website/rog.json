@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:17:11.995413+00:00",
-  "count": 587,
+  "updated": "2026-08-05T07:31:53.019739+00:00",
+  "count": 588,
   "items": [
     {
       "id": 2676,
@@ -4009,6 +4009,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/b1f004bd-e6f3-43bc-b0bc-463ca69699d7/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 5804,
+      "title": "ROG T-shirt",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4d3b4c31-8be4-4e02-b2c6-b248b21440b1/",
       "region": "sa-ar",
       "reward_url": null
     },
