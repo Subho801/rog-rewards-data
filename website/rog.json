@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:49:21.574060+00:00",
+  "updated": "2026-08-05T05:16:33.924301+00:00",
   "count": 585,
   "items": [
     {
@@ -2405,7 +2405,7 @@
     {
       "id": 5467,
       "title": "Mystery Bundle (get 5 random games)",
-      "status": 1,
+      "status": 3,
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/17f614ee-7100-404c-8c0e-5fcf5120129d/",
