@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T10:19:08.046789+00:00",
-  "count": 589,
+  "updated": "2026-08-05T15:01:06.211119+00:00",
+  "count": 590,
   "items": [
     {
       "id": 2676,
@@ -3059,6 +3059,16 @@
       "cost": 100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/02c992c0-753e-4b68-b8e1-9ae0c9ca9e92/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5793,
+      "title": "Słuchawki ROG Cetra True Wireless",
+      "status": 4,
+      "cost": 2900,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7ad2ba26-56a0-4071-b1f0-a4d40eab8ea1/",
       "region": "pl",
       "reward_url": null
     },
