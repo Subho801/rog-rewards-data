@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:04:39.529463+00:00",
-  "count": 586,
+  "updated": "2026-08-05T07:17:11.995413+00:00",
+  "count": 587,
   "items": [
     {
       "id": 2676,
@@ -3999,6 +3999,16 @@
       "cost": 5000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/1e106ee2-be8d-4297-b54f-71ace231d455/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 5803,
+      "title": "ROG Ranger Waist Pack",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b1f004bd-e6f3-43bc-b0bc-463ca69699d7/",
       "region": "sa-ar",
       "reward_url": null
     },
