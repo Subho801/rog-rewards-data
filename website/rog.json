@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:31:53.019739+00:00",
-  "count": 588,
+  "updated": "2026-08-05T07:38:18.443397+00:00",
+  "count": 589,
   "items": [
     {
       "id": 2676,
@@ -4019,6 +4019,16 @@
       "cost": 500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d3b4c31-8be4-4e02-b2c6-b248b21440b1/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 5805,
+      "title": "ROG Elite MAG CARD",
+      "status": 1,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7ab9cff6-1a38-40ed-935a-35367a6de9ea/",
       "region": "sa-ar",
       "reward_url": null
     },
