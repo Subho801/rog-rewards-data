@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T07:01:53.638334+00:00",
-  "count": 590,
+  "updated": "2026-08-06T14:29:02.209574+00:00",
+  "count": 582,
   "items": [
     {
       "id": 2676,
@@ -5763,26 +5763,6 @@
       "reward_url": null
     },
     {
-      "id": 5365,
-      "title": "Global Gift Card - 10 USD",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b9f7bd23-28d5-4217-9e96-df70a36b58b8/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5366,
-      "title": "Global Gift Card - 10USD",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/86008f8a-c8a3-496f-89cc-ce7bb7863cf2/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
       "id": 5478,
       "title": "ROG Mug ",
       "status": 3,
@@ -5833,72 +5813,12 @@
       "reward_url": null
     },
     {
-      "id": 5665,
-      "title": "The Global Gift Card - 5 USD",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/974bacb9-4525-4e60-94c9-888a474994b1/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5666,
-      "title": "The Global Gift Card: 5 USD",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b284e514-0cfc-40a2-b826-8d57b01c32c4/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5667,
-      "title": "The Global Gift Card - 10 USD",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/33633c22-8d67-4b0e-8309-10ba94978614/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5668,
-      "title": "The Global Gift Card: 10 USD",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ea358df9-70cd-4eee-a501-1cf3c542fd22/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5774,
-      "title": "Starfield",
-      "status": 3,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/bc788702-64ae-44c0-8b22-5a0aa6d8dbd8/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
       "id": 5775,
       "title": "Pumpkin Jack",
       "status": 1,
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d0dd742-8baf-4099-8443-dd1136b45d26/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5776,
-      "title": "Knock'em Out",
-      "status": 3,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/bbd1335c-11b6-42e0-8c72-2081c86fdf0c/",
       "region": "za",
       "reward_url": null
     }
