@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T14:21:07.768816+00:00",
-  "count": 581,
+  "updated": "2026-08-07T14:23:04.725526+00:00",
+  "count": 580,
   "items": [
     {
       "id": 2676,
@@ -5680,16 +5680,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/78421a56-8f3e-4280-bcb2-9383ec237cd5/",
       "region": "wa",
-      "reward_url": null
-    },
-    {
-      "id": 4990,
-      "title": "ROG Headset Holder",
-      "status": 1,
-      "cost": 1600,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/87e99690-5ed3-4658-b0f1-7655fcb3b567/",
-      "region": "za",
       "reward_url": null
     },
     {
