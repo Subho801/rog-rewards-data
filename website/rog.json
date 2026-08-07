@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T14:23:04.725526+00:00",
-  "count": 580,
+  "updated": "2026-08-07T14:29:03.879227+00:00",
+  "count": 581,
   "items": [
     {
       "id": 2676,
@@ -5799,6 +5799,16 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d0dd742-8baf-4099-8443-dd1136b45d26/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5819,
+      "title": "ROG Headset Stand",
+      "status": 1,
+      "cost": 1600,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/56a39c81-1101-4437-874c-16d07ab51d79/",
       "region": "za",
       "reward_url": null
     }
