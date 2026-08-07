@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T08:49:00.913853+00:00",
-  "count": 581,
+  "updated": "2026-08-07T08:52:59.093709+00:00",
+  "count": 580,
   "items": [
     {
       "id": 2676,
@@ -5763,22 +5763,12 @@
       "reward_url": null
     },
     {
-      "id": 5480,
-      "title": "ROG Water Bottle ",
-      "status": 3,
-      "cost": 600,
+      "id": 5482,
+      "title": "ROG Crossbody Bag",
+      "status": 1,
+      "cost": 900,
       "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ec89f0ab-21f5-436f-8e2b-afbe3b20b6dc/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5504,
-      "title": "20th Anniversary Beanie",
-      "status": 3,
-      "cost": 550,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4f2c490e-0f5f-483b-aaf6-eed7168a2595/",
+      "image": "https://dlcdnwebimgs.asus.com/gain/a71b7058-55c8-4a7c-a738-b6bb86976ccd/",
       "region": "za",
       "reward_url": null
     },
