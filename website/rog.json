@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T09:23:36.753827+00:00",
-  "count": 580,
+  "updated": "2026-08-07T09:27:36.653735+00:00",
+  "count": 579,
   "items": [
     {
       "id": 2676,
@@ -5670,16 +5670,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/78421a56-8f3e-4280-bcb2-9383ec237cd5/",
       "region": "wa",
-      "reward_url": null
-    },
-    {
-      "id": 2711,
-      "title": "Metaphor: ReFantazio",
-      "status": 1,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d94217b9-5c37-48e9-b638-0b5e73458eda/",
-      "region": "za",
       "reward_url": null
     },
     {
