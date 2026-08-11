@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T10:05:21.002508+00:00",
-  "count": 581,
+  "updated": "2026-08-11T14:25:46.192362+00:00",
+  "count": 580,
   "items": [
     {
       "id": 2676,
@@ -5779,16 +5779,6 @@
       "cost": 1200,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/b8378837-b204-44cd-9d15-10c1907c9d45/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5549,
-      "title": "ROG 20th Anniversary Pillow",
-      "status": 1,
-      "cost": 3000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f1c657e9-b988-44c5-8659-cb0e2da05e51/",
       "region": "za",
       "reward_url": null
     },
