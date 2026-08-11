@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T09:57:54.878513+00:00",
-  "count": 582,
+  "updated": "2026-08-11T10:05:21.002508+00:00",
+  "count": 581,
   "items": [
     {
       "id": 2676,
@@ -5769,16 +5769,6 @@
       "cost": 800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ceda720c-b694-44bd-9d65-ed114c701be6/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5482,
-      "title": "ROG Crossbody Bag",
-      "status": 3,
-      "cost": 900,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/a71b7058-55c8-4a7c-a738-b6bb86976ccd/",
       "region": "za",
       "reward_url": null
     },
