@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T10:01:38.839588+00:00",
-  "count": 605,
+  "updated": "2026-08-13T10:04:40.024951+00:00",
+  "count": 593,
   "items": [
     {
       "id": 2676,
@@ -3833,86 +3833,6 @@
       "reward_url": null
     },
     {
-      "id": 2656,
-      "title": "ROG BOX",
-      "status": 1,
-      "cost": 5500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/847f602d-2576-447b-9e85-28c614d9ca56/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5340,
-      "title": "Uncharted Legacy of Thieves",
-      "status": 3,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/26a06547-ac33-4687-8e3b-ea85d0bb3740/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5523,
-      "title": "(ТОЛЬКО СНГ, БЕЗ РФ) DEATH STRANDING 2: ON THE BEACH",
-      "status": 10,
-      "cost": 2500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/bec97775-0ee0-4e79-ba95-c2b6a41b9f55/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5675,
-      "title": "007 First Light",
-      "status": 3,
-      "cost": 3500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4d28c083-474d-445f-93d6-ddcf5502103e/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5680,
-      "title": "Gothic 1 Remake",
-      "status": 3,
-      "cost": 1000,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/3d89c710-231b-4bda-a459-1841478e2a0a/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5788,
-      "title": "Starfield",
-      "status": 1,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4be4add3-689f-4983-993e-f6acab9ec515/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5789,
-      "title": "Pumpkin Jack",
-      "status": 2,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0e9fa8fe-5aee-444a-9a0c-f4767f7f0806/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5790,
-      "title": "Knock’em Out",
-      "status": 3,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f5f94ab0-2d54-42f4-b660-05102a5d2403/",
-      "region": "ru",
-      "reward_url": null
-    },
-    {
       "id": 1336,
       "title": "Monster Hunter Rise",
       "status": 4,
@@ -5310,46 +5230,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e8fd09e2-5bdb-43f8-aa0e-f6ce99540fbc/",
       "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5142,
-      "title": "Sniper Elite: Resistance",
-      "status": 4,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/cc3e7ef5-8d90-4524-9c85-0c7b5f967d3a/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5389,
-      "title": "10 USD Global gift card 2026",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c0058c61-29d2-4dfa-9b81-72f04de6f810/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5744,
-      "title": "Starfield",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b5b8e055-1be2-4900-a7d3-cd3dccff08cc/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5745,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/162602c1-18ac-4484-9492-0a69a5bc2203/",
-      "region": "uk",
       "reward_url": null
     },
     {
