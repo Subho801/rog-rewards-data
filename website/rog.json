@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T09:00:59.885907+00:00",
-  "count": 590,
+  "updated": "2026-08-13T09:02:34.325907+00:00",
+  "count": 602,
   "items": [
     {
       "id": 2676,
@@ -343,6 +343,26 @@
       "reward_url": null
     },
     {
+      "id": 5839,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d15f408c-b746-44c6-859a-dfd32b2eb1c4/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 5840,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1f39b272-d845-47e5-8267-34dc8c28e010/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
       "id": 2715,
       "title": "Monster Hunter Wilds",
       "status": 4,
@@ -379,6 +399,26 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/ad5b4e6b-0173-4e18-8d25-c3f8a5a811dd/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5850,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1f07e694-34c0-48ff-a4f3-a27c71a78018/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5851,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ead681a9-a0fb-4cb5-91fc-8a606d0e454c/",
       "region": "ea",
       "reward_url": null
     },
@@ -999,6 +1039,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/b675a450-db3c-4f98-bd69-1a875938527b/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
+      "id": 5808,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6da3495e-7066-4562-ab60-005b403cc670/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
+      "id": 5809,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/dfda1236-9edf-4779-8896-4cd448a78f44/",
       "region": "fr",
       "reward_url": null
     },
@@ -2533,6 +2593,26 @@
       "reward_url": null
     },
     {
+      "id": 5813,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/04bb39b9-a6b2-4a00-838f-74929328b877/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5815,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6d56f404-8cf0-4729-a8b9-9832bbb4b9b0/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
       "id": 237,
       "title": "Ghostrunner",
       "status": 3,
@@ -2839,6 +2919,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/a7ac4f47-ce44-4e21-bb6d-23a2789e4fba/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
+      "id": 5843,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8d859566-264f-44f5-929e-25564e06ca88/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
+      "id": 5844,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/2215401f-1a0d-4d85-9e51-5d2f28a84891/",
       "region": "ph",
       "reward_url": null
     },
@@ -4459,6 +4559,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/f1bbc78d-a11f-40ea-8f21-587f3c1020a1/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 5816,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/78ca7d2d-54ef-4058-a350-d0e8c46acba4/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 5817,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/2945d353-6653-46ce-b954-4938297afca7/",
       "region": "sg",
       "reward_url": null
     },
