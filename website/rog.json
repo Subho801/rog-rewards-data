@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T07:01:38.328691+00:00",
-  "count": 583,
+  "updated": "2026-08-13T09:00:29.240748+00:00",
+  "count": 588,
   "items": [
     {
       "id": 2676,
@@ -4133,6 +4133,16 @@
       "reward_url": null
     },
     {
+      "id": 5832,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/531aeaea-e31e-4001-8612-d08aaa445661/",
+      "region": "sa-en",
+      "reward_url": null
+    },
+    {
       "id": 239,
       "title": "Ghostrunner",
       "status": 3,
@@ -4659,6 +4669,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/138f59b0-9f47-40d3-8c55-25f28c1b6c10/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5841,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9de54d5f-436a-4807-a4f4-9d4e024657ef/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5842,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5663fcdc-2243-401f-9014-73f03e7c3c20/",
       "region": "sk",
       "reward_url": null
     },
@@ -5809,6 +5839,26 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d0dd742-8baf-4099-8443-dd1136b45d26/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5810,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/18d04887-3db5-45b1-ab7f-92af36237e2d/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5811,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/75c0a6ce-208f-4de3-af2a-ceec701a424b/",
       "region": "za",
       "reward_url": null
     },
