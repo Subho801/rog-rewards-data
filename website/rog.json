@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T09:32:00.250979+00:00",
-  "count": 603,
+  "updated": "2026-08-13T10:01:38.839588+00:00",
+  "count": 605,
   "items": [
     {
       "id": 2676,
@@ -1669,6 +1669,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3d9f513b-3e54-4e8a-817a-46728bdd89a0/",
+      "region": "id",
+      "reward_url": null
+    },
+    {
+      "id": 5822,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6b075a20-a0c7-4cba-af60-6e0f90b07b98/",
+      "region": "id",
+      "reward_url": null
+    },
+    {
+      "id": 5823,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ded2a38c-1c1d-461e-b00f-63e47b6e1d74/",
       "region": "id",
       "reward_url": null
     },
