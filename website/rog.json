@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T10:14:22.732634+00:00",
-  "count": 607,
+  "updated": "2026-08-13T13:53:26.031060+00:00",
+  "count": 608,
   "items": [
     {
       "id": 2676,
@@ -5199,6 +5199,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/66515675-76c5-4337-a202-9cde0c8bb5a3/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5857,
+      "title": "ROG 20. Yıl Futbol Topu",
+      "status": 1,
+      "cost": 2500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a59ce70e-dcc2-4eba-bb90-a53d6bba64cd/",
       "region": "tr",
       "reward_url": null
     },
