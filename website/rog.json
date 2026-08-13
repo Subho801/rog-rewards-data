@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T13:53:26.031060+00:00",
-  "count": 608,
+  "updated": "2026-08-13T14:01:23.709491+00:00",
+  "count": 612,
   "items": [
     {
       "id": 2676,
@@ -4233,6 +4233,26 @@
       "reward_url": null
     },
     {
+      "id": 5835,
+      "title": "Fallout 4",
+      "status": 1,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/780b8979-a33c-4080-b0ab-246abdb0c3b3/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 5836,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/49865b28-b6bb-4be9-adc8-785d100c85cc/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
       "id": 4933,
       "title": "(UAE Exclusive) Limited Edition ROG Elite Gift Box",
       "status": 4,
@@ -5339,6 +5359,26 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e8fd09e2-5bdb-43f8-aa0e-f6ce99540fbc/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5812,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d3ce3c21-1622-48c5-ab00-7f0964fb6426/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5814,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fb6fca9b-c09e-4c14-9c23-f5ca79b35c40/",
       "region": "ua-ua",
       "reward_url": null
     },
