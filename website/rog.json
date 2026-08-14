@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T21:25:51.106454+00:00",
-  "count": 633,
+  "updated": "2026-08-14T21:28:06.262765+00:00",
+  "count": 630,
   "items": [
     {
       "id": 2676,
@@ -33,26 +33,6 @@
       "reward_url": null
     },
     {
-      "id": 5698,
-      "title": "$15 CAD Twitch Gift Card",
-      "status": 3,
-      "cost": 625,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/49d1a124-26f0-4b56-80c4-e62e8477d275/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5778,
-      "title": "Starfield Game Codes",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/db29bc33-8b82-4110-825e-05951c6c4fa9/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
       "id": 5779,
       "title": "Pumpkin Jack Game Code",
       "status": 1,
@@ -63,32 +43,22 @@
       "reward_url": null
     },
     {
-      "id": 5780,
-      "title": "Knock'em Out Game Code",
-      "status": 3,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9981129f-95ce-40ae-89f4-b3850d857d6b/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5781,
-      "title": "$15 Cineplex Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e47ec5ab-852a-477a-aaae-ddc35e3f569f/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
       "id": 5859,
       "title": "Fallout 4 ",
       "status": 4,
       "cost": 1800,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/6ae22f5f-06f3-43e0-ac51-0abcac8e3b51/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5860,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/decb0a6a-082e-4ca2-8641-fb26fbba636a/",
       "region": "ca-en",
       "reward_url": null
     },
