@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T11:10:16.999819+00:00",
-  "count": 630,
+  "updated": "2026-08-14T11:12:18.147315+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -5379,16 +5379,6 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/2d03022b-1fb0-42b0-a8c5-41a09f52054e/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5187,
-      "title": "Monster Hunter Wilds",
-      "status": 4,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/64281840-f507-4ba6-843f-b628fe2674e8/",
       "region": "ua-ua",
       "reward_url": null
     },
