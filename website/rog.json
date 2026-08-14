@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T11:18:25.412289+00:00",
-  "count": 630,
+  "updated": "2026-08-14T11:37:54.431224+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -5369,6 +5369,16 @@
       "cost": 7000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/70848b9f-a2c6-4534-a1fd-85205b9b127a/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5869,
+      "title": "ROG OMNI MINI 6'lı figür",
+      "status": 1,
+      "cost": 15000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7df746fd-09ef-4661-bea2-5753ef9df055/",
       "region": "tr",
       "reward_url": null
     },
