@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T11:01:09.471153+00:00",
-  "count": 629,
+  "updated": "2026-08-14T11:10:16.999819+00:00",
+  "count": 630,
   "items": [
     {
       "id": 2676,
@@ -5349,6 +5349,16 @@
       "cost": 8000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/c47111f7-af3a-4b19-b46d-48a2d09905c6/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5867,
+      "title": "ROG SAGA OMNI HANG PAL- 100cm",
+      "status": 1,
+      "cost": 21000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/0a382c8a-9bd6-4483-b17b-ee5114d501aa/",
       "region": "tr",
       "reward_url": null
     },
