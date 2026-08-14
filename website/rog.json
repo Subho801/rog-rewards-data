@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:03:17.664827+00:00",
-  "count": 626,
+  "updated": "2026-08-14T07:05:02.208966+00:00",
+  "count": 627,
   "items": [
     {
       "id": 2676,
@@ -5319,6 +5319,16 @@
       "cost": 5000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f15cc174-6a1b-4436-bd97-3f1e551d99df/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5864,
+      "title": "20. Yıl Hediye kutusu",
+      "status": 1,
+      "cost": 16000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/92da82ff-6ce6-4740-aec0-dcccaa09df1e/",
       "region": "tr",
       "reward_url": null
     },
