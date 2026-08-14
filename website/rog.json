@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T11:37:54.431224+00:00",
-  "count": 631,
+  "updated": "2026-08-14T21:25:51.106454+00:00",
+  "count": 633,
   "items": [
     {
       "id": 2676,
@@ -79,6 +79,26 @@
       "cost": 600,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e47ec5ab-852a-477a-aaae-ddc35e3f569f/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5859,
+      "title": "Fallout 4 ",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6ae22f5f-06f3-43e0-ac51-0abcac8e3b51/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5861,
+      "title": "$5 USD Global Gift Card ",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e1b9c3ab-56ff-4dd4-af13-c6aeb09b23e5/",
       "region": "ca-en",
       "reward_url": null
     },
