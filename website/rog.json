@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T10:01:15.380301+00:00",
-  "count": 603,
+  "updated": "2026-08-14T10:03:11.447098+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -5550,6 +5550,256 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
       "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 690,
+      "title": "Fanfit $10 Off Coupons",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4465a4f7-07b1-445a-b96a-0bf0b4470cf9/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 1328,
+      "title": "Amazon Gift Card ($10)",
+      "status": 3,
+      "cost": 3500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8e504c6b-2a74-454c-8693-e44c68e37c50/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 1329,
+      "title": "Best Buy Gift Card ($10)",
+      "status": 3,
+      "cost": 3500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fc9f7cc5-b627-45aa-9c9a-ba408559e83a/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2723,
+      "title": "World of Warships In-Game Code",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8cb3531f-c580-45eb-8108-72aedf41f5c8/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2841,
+      "title": "Amazon Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/00e82d4c-14e2-42bf-96fd-9ff8ebe2dd16/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2842,
+      "title": "Best Buy Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b0b0d6f6-c90b-48ea-9276-fa8f84223ab1/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2868,
+      "title": "$25 Off ASUS WiFi 7 Devices!",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e177656c-1935-4344-b6c2-9bc814f72b4d/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5035,
+      "title": "Walmart Gift Card ($5)",
+      "status": 1,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7d97c3e4-b528-4d01-af2c-d69ded89f18b/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5036,
+      "title": "Target Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c1d1ca84-d1b7-4732-8541-4aa429ae7123/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5037,
+      "title": "Xbox Game Pass Ultimate (1-month)",
+      "status": 3,
+      "cost": 3500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7793276c-3cc6-44d6-8481-1bd53f0c01c0/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5276,
+      "title": "Predecessor",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8aa7b156-141e-496e-a510-ce681d35792c/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5335,
+      "title": "DoorDash Gift Card ($15) ",
+      "status": 3,
+      "cost": 4000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/146a1f1f-d79e-4be9-bcd2-ad9ef8be1a05/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5568,
+      "title": "10 USD Global Gift Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/0c203b4f-c7ca-4f27-aa7c-650d5cdffd7d/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5572,
+      "title": "5 USD Global Gift Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fafc00a7-e6c9-4e89-8648-89b96fcd7542/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5615,
+      "title": "ROG 20th Edition Keycap",
+      "status": 3,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/565f0e80-f155-4173-9145-a02c7b8f6f1b/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5622,
+      "title": "5 USD Global Gift Card ",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3b061b42-1b6b-499f-88bd-34019fed9d86/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5624,
+      "title": "5 USD Global Gift Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f9a9631e-b883-4532-bb8a-6b25ec33743e/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5625,
+      "title": "5 USD Global Gift Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9a6dd8b4-617e-432c-bbc0-8b0858e348b4/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5626,
+      "title": "10 USD Global Gift Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/336f418c-a6e1-40df-ab78-8d5354ac9b22/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5627,
+      "title": "10 USD Global Gift Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1e38f711-abf1-4612-a6f7-148a3d608eaa/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5628,
+      "title": "10 USD Global Gift Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/236b7b3e-c1ed-4125-9490-8c219207d089/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5768,
+      "title": "Starfield",
+      "status": 3,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/21c055e6-26da-48d6-9c73-afceda4d1416/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5769,
+      "title": "Pumpkin Jack",
+      "status": 3,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ebf5b36b-bbfa-4e54-9221-d66b46dcc678/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5770,
+      "title": "Knock'em Out",
+      "status": 3,
+      "cost": 300,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e7588886-6a09-469b-8ea4-31ede9053fee/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5858,
+      "title": "Starbucks Gift Card",
+      "status": 1,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a89d45ec-00f8-4361-9e7d-0c344093041a/",
+      "region": "us",
       "reward_url": null
     },
     {
