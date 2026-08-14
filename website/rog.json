@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T03:44:47.458075+00:00",
-  "count": 625,
+  "updated": "2026-08-14T06:49:39.272985+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -5309,6 +5309,16 @@
       "cost": 2500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a59ce70e-dcc2-4eba-bb90-a53d6bba64cd/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5862,
+      "title": "ROG 20. Yıl Hediye Kutusu",
+      "status": 1,
+      "cost": 10000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b0d4729d-9409-40b9-8b90-c79a52b66bbd/",
       "region": "tr",
       "reward_url": null
     },
