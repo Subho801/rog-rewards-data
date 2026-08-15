@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T21:55:18.025628+00:00",
-  "count": 630,
+  "updated": "2026-08-15T12:01:21.789877+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -3239,16 +3239,6 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c5c7bc45-ce9c-4867-a1a3-dfaef4c1742b/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5748,
-      "title": "Voucher Cinema City na film 2d Spider-Man: Całkiem nowy dzień",
-      "status": 9,
-      "cost": 100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/02c992c0-753e-4b68-b8e1-9ae0c9ca9e92/",
       "region": "pl",
       "reward_url": null
     },
