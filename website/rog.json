@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T21:24:16.812189+00:00",
-  "count": 629,
+  "updated": "2026-08-15T21:26:48.553146+00:00",
+  "count": 618,
   "items": [
     {
       "id": 2676,
@@ -1760,56 +1760,6 @@
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a73920f7-47c9-42c2-9305-e6023b8cf241/",
       "region": "il",
-      "reward_url": null
-    },
-    {
-      "id": 5391,
-      "title": "Discount Coupon Code - Laptop ",
-      "status": 1,
-      "cost": 2200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/63537141-ec94-49ea-b3e0-7f8ffacdfa9a/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5392,
-      "title": "Discount Coupon Code - Accessory ",
-      "status": 1,
-      "cost": 400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/934001e0-c141-4297-8d0a-a99edfaece79/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5771,
-      "title": "Starfield",
-      "status": 2,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5da64ff9-27ce-4611-9253-ebe86a2bac14/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5772,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9173a0cf-9672-4124-9ea3-b5221144b8ca/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5773,
-      "title": "Knock em Out",
-      "status": 3,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/65f707fe-061d-43a3-b7a5-4e861911f383/",
-      "region": "in",
       "reward_url": null
     },
     {
@@ -5500,66 +5450,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/fb6fca9b-c09e-4c14-9c23-f5ca79b35c40/",
       "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5142,
-      "title": "Sniper Elite: Resistance",
-      "status": 4,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/cc3e7ef5-8d90-4524-9c85-0c7b5f967d3a/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5389,
-      "title": "10 USD Global gift card 2026",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c0058c61-29d2-4dfa-9b81-72f04de6f810/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5744,
-      "title": "Starfield",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b5b8e055-1be2-4900-a7d3-cd3dccff08cc/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5745,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/162602c1-18ac-4484-9492-0a69a5bc2203/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5847,
-      "title": "Fallout 4",
-      "status": 4,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/27f6c3a0-d47a-4ace-a96a-6a9478b4f7d1/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5848,
-      "title": "Gori: Cuddly Carnage",
-      "status": 1,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
-      "region": "uk",
       "reward_url": null
     },
     {
