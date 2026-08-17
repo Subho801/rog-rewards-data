@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T10:41:58.795484+00:00",
-  "count": 628,
+  "updated": "2026-08-17T10:43:56.351220+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -5383,16 +5383,6 @@
       "reward_url": null
     },
     {
-      "id": 5463,
-      "title": "Пляшка ROG",
-      "status": 3,
-      "cost": 900,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0583bfe6-2f92-4a0f-b12e-5439c98c4b0f/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
       "id": 5511,
       "title": "Футболка оверсайз ROG",
       "status": 1,
@@ -5429,16 +5419,6 @@
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/4a2e67cc-a500-4788-b253-17392c8a5f3f/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5648,
-      "title": "Розумний термос ROG з LED-дисплеєм",
-      "status": 3,
-      "cost": 1200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1f4ba7b9-a0be-4bd6-a98f-6c2eb996e201/",
       "region": "ua-ua",
       "reward_url": null
     },
