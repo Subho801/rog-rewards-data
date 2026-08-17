@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T10:43:56.351220+00:00",
-  "count": 626,
+  "updated": "2026-08-17T12:00:53.531860+00:00",
+  "count": 627,
   "items": [
     {
       "id": 2676,
@@ -3259,6 +3259,16 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/20672645-3111-4d45-81d0-1784aed3fb40/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5818,
+      "title": "Twierdza Krzyżowiec Edycja Ostateczna ",
+      "status": 9,
+      "cost": 800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8e2faefe-0b41-46e2-a0c3-b0acf3d9dc83/",
       "region": "pl",
       "reward_url": null
     },
