@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:01:17.901837+00:00",
-  "count": 630,
+  "updated": "2026-08-18T12:05:17.841090+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -4999,6 +4999,16 @@
       "cost": 2000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/d3c29759-5dad-489a-9855-a4db2000c348/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5873,
+      "title": "ROG 20. výročie tričko",
+      "status": 1,
+      "cost": 1700,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/60044abf-18e5-40f3-93aa-2d574af0388d/",
       "region": "sk",
       "reward_url": null
     },
