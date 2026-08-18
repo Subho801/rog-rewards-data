@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:17:11.461946+00:00",
-  "count": 634,
+  "updated": "2026-08-18T12:19:08.850131+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -5039,6 +5039,16 @@
       "cost": 600,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/e972fa40-5a5a-4824-bbbd-bf9a2fd4f86d/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5877,
+      "title": "ROG 20. výročie lopta",
+      "status": 1,
+      "cost": 3700,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/22cc8d73-db51-48f8-bccc-0c10da673751/",
       "region": "sk",
       "reward_url": null
     },
