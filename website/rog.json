@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:23:04.557748+00:00",
-  "count": 636,
+  "updated": "2026-08-18T12:25:03.269327+00:00",
+  "count": 637,
   "items": [
     {
       "id": 2676,
@@ -5059,6 +5059,16 @@
       "cost": 3700,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/22cc8d73-db51-48f8-bccc-0c10da673751/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5879,
+      "title": "ROG 20. výročie balóniky",
+      "status": 1,
+      "cost": 400,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/90e54731-d847-4391-8a33-4fff4b4e3bab/",
       "region": "sk",
       "reward_url": null
     },
