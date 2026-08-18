@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:31:00.602309+00:00",
-  "count": 639,
+  "updated": "2026-08-18T12:36:57.678902+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -409,6 +409,16 @@
       "cost": 5000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/adc531bf-6ae8-48bf-9403-b71805e08520/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 5882,
+      "title": "ROG 20. výročí samolepky",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a01ce9cd-a5e1-41aa-bfc4-cda5117fb53b/",
       "region": "cz",
       "reward_url": null
     },
@@ -5089,6 +5099,16 @@
       "cost": 5000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a730424c-aa92-43c3-aed9-94f9aca357fd/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 5883,
+      "title": "ROG 20. výročie samolepky",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/21b408ff-a81f-4d65-9fc9-2d4c906553fc/",
       "region": "sk",
       "reward_url": null
     },
