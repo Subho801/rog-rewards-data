@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T03:46:10.799814+00:00",
-  "count": 601,
+  "updated": "2026-08-18T03:48:54.075729+00:00",
+  "count": 627,
   "items": [
     {
       "id": 2676,
@@ -2420,6 +2420,266 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/603471eb-2302-49e0-9720-f097eafd447c/",
       "region": "mx",
+      "reward_url": null
+    },
+    {
+      "id": 2564,
+      "title": "5 USD GoGift global card ",
+      "status": 3,
+      "cost": 200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/dd36e19c-9619-4691-b2f1-896f48abe952/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 2565,
+      "title": "10 USD GoGift global card ",
+      "status": 3,
+      "cost": 400,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/bec0e2e2-180b-4f6c-963c-0d6475c1bbe5/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 2871,
+      "title": "5 USD GoGift Global Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/95a68709-a1f2-45b6-a06b-aad43a32d9d7/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 3871,
+      "title": "10 USD GoGift Global Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f707c1d0-d1ef-438a-9c2d-7ed4dd0b924e/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 4927,
+      "title": "5 USD GoGift global card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/cabd6019-476b-4499-a195-3d9adc5af0ed/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 4928,
+      "title": "10 USD GoGift Global Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1cba425e-5f33-4872-9a8b-91155fbbd024/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5092,
+      "title": "Mystery Bundle (get 5 games randomly)",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/133a9ad4-2f16-4da3-87a1-f477913b143d/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5126,
+      "title": "Balatro",
+      "status": 3,
+      "cost": 450,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f8ed7255-0ab8-46d1-95d9-7e04ea38987d/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5127,
+      "title": "Sniper Elite: Resistance",
+      "status": 1,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a990deb2-6a63-408f-8e19-c25a15b1972c/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5394,
+      "title": "5 USD GoGift Global Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/acdb3152-576f-4735-8539-65315a550cb6/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5395,
+      "title": "5 USD GoGift Global Card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/175ec353-eb35-4e8e-bae9-fe423cd136cd/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5396,
+      "title": "10 USD GoGift Global Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fff33793-ca80-4171-bf69-2332a9bd4b49/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5397,
+      "title": "10 USD GoGift Global Card",
+      "status": 3,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4302b1a1-4b1f-491a-bb27-bf016e246e25/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5467,
+      "title": "Mystery Bundle (get 5 random games)",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/17f614ee-7100-404c-8c0e-5fcf5120129d/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5563,
+      "title": "5 USD Global gift card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5ac2e47d-9f68-4e2a-a653-9db97b380753/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5564,
+      "title": "10 USD Global gift card",
+      "status": 1,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f6f81d71-cfd0-43c4-96d1-da24f8391670/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5629,
+      "title": "5 USD Global gift card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/69ff4c03-b072-438a-9b8f-f979daab6484/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5630,
+      "title": "10 USD Global gift card",
+      "status": 1,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/21351e28-517e-428d-8aa0-b409665086db/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5631,
+      "title": "10 USD Global gift card",
+      "status": 1,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8cca896f-e7d5-4daf-b9d4-70b0d40e4788/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5632,
+      "title": "5 USD Global gift card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/774e9973-ef09-4acc-a755-d3a54b81dbbf/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5633,
+      "title": "5 USD Global gift card",
+      "status": 3,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a3d7974d-4e5e-46ae-a26f-59b4720b9d4b/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5756,
+      "title": "Starfield ",
+      "status": 1,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8104de40-d3e6-499e-8517-52293468935c/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5757,
+      "title": "Pumpkin Jack",
+      "status": 4,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d84f3d4e-3646-4d76-baf3-6d247e52049e/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5758,
+      "title": "Knock'em Out",
+      "status": 3,
+      "cost": 300,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1d8f5d54-b01e-4600-becc-fe2b756960f5/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5813,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/04bb39b9-a6b2-4a00-838f-74929328b877/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
+      "id": 5815,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6d56f404-8cf0-4729-a8b9-9832bbb4b9b0/",
+      "region": "my",
       "reward_url": null
     },
     {
