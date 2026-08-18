@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T07:01:42.840325+00:00",
-  "count": 627,
+  "updated": "2026-08-18T11:41:18.849484+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -349,6 +349,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/1f39b272-d845-47e5-8267-34dc8c28e010/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 5870,
+      "title": "ROG 20. výročí tumblr",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7afa5f29-02eb-46c3-9c62-412cdcdc66ff/",
       "region": "cz",
       "reward_url": null
     },
