@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:25:03.269327+00:00",
-  "count": 637,
+  "updated": "2026-08-18T12:28:58.059184+00:00",
+  "count": 638,
   "items": [
     {
       "id": 2676,
@@ -399,6 +399,16 @@
       "cost": 400,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/079fc451-ec5e-4a32-9cdf-d1033a3a6189/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 5880,
+      "title": "ROG 20. výročí dárkový box",
+      "status": 1,
+      "cost": 5000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/adc531bf-6ae8-48bf-9403-b71805e08520/",
       "region": "cz",
       "reward_url": null
     },
