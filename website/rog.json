@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T07:01:54.873237+00:00",
-  "count": 641,
+  "updated": "2026-08-19T10:10:55.728254+00:00",
+  "count": 640,
   "items": [
     {
       "id": 2676,
@@ -209,16 +209,6 @@
       "cost": 650,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/54ab6b01-1942-41cb-a9cc-ae52b55f92b3/",
-      "region": "cz",
-      "reward_url": null
-    },
-    {
-      "id": 5219,
-      "title": "ROG pouch",
-      "status": 3,
-      "cost": 650,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/90121774-c497-40e3-874a-00477ad9cfca/",
       "region": "cz",
       "reward_url": null
     },
