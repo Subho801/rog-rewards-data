@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T07:16:53.239873+00:00",
-  "count": 640,
+  "updated": "2026-08-20T10:01:29.882205+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -3319,6 +3319,16 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/20672645-3111-4d45-81d0-1784aed3fb40/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5801,
+      "title": "Assassins Creed Black Flag Resynced",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4e56fa76-443e-4232-9ac1-c71b2899839f/",
       "region": "pl",
       "reward_url": null
     },
