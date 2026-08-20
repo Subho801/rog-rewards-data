@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T10:15:41.495043+00:00",
-  "count": 642,
+  "updated": "2026-08-20T11:54:20.950358+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -3359,16 +3359,6 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/faea6832-4d6a-40fd-87a4-4e92f89b7fc7/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5854,
-      "title": "Path of Exile 2 wczesny dostęp ",
-      "status": 1,
-      "cost": 1400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/615ee694-a64c-4500-8fe2-b94aac25561f/",
       "region": "pl",
       "reward_url": null
     },
