@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T09:13:18.074541+00:00",
-  "count": 644,
+  "updated": "2026-08-21T09:13:46.236632+00:00",
+  "count": 643,
   "items": [
     {
       "id": 2676,
@@ -3159,16 +3159,6 @@
       "cost": 2500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/d6c8cdea-f788-49cc-9890-673286c44c80/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5422,
-      "title": "Doładowanie Riot Games o wartości 40 pln",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d3e6bd16-f83e-4e35-be55-ea9fb1f8268f/",
       "region": "pl",
       "reward_url": null
     },
