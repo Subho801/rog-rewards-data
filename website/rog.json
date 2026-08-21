@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T15:18:22.495974+00:00",
-  "count": 643,
+  "updated": "2026-08-21T09:13:18.074541+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -3219,6 +3219,16 @@
       "cost": 2200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/ad2b1543-6aa8-4fe0-a04f-0996eba1e455/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5529,
+      "title": "Karta podarunkowa Fortnite o wartości 200 zł",
+      "status": 1,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c617b769-c713-4081-8f20-51a88a90ab44/",
       "region": "pl",
       "reward_url": null
     },
