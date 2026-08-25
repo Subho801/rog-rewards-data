@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T02:11:34.584769+00:00",
-  "count": 643,
+  "updated": "2026-08-25T08:39:14.628349+00:00",
+  "count": 642,
   "items": [
     {
       "id": 2676,
@@ -5339,16 +5339,6 @@
       "cost": 15000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/caae1644-d1ae-4833-827b-4da118c2da41/",
-      "region": "tr",
-      "reward_url": null
-    },
-    {
-      "id": 5031,
-      "title": "ROG Termos - Siyah",
-      "status": 1,
-      "cost": 5000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/977d7414-58a8-4d1d-b9ac-f1b1b5041354/",
       "region": "tr",
       "reward_url": null
     },
