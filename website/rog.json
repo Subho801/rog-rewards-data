@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T09:49:41.845086+00:00",
-  "count": 640,
+  "updated": "2026-08-25T11:06:56.320210+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -5509,6 +5509,16 @@
       "cost": 15000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/7df746fd-09ef-4661-bea2-5753ef9df055/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5886,
+      "title": "ROG 20.Yil Mousepad",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ec362cd2-36fa-441a-bb40-1cd44fcd163e/",
       "region": "tr",
       "reward_url": null
     },
