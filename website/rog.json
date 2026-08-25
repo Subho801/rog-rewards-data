@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T11:06:56.320210+00:00",
-  "count": 641,
+  "updated": "2026-08-25T11:12:47.254000+00:00",
+  "count": 642,
   "items": [
     {
       "id": 2676,
@@ -5519,6 +5519,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ec362cd2-36fa-441a-bb40-1cd44fcd163e/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5887,
+      "title": "ROG Elite Termos",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f8ac6b5e-a90c-4001-94a4-5238a9ea8dae/",
       "region": "tr",
       "reward_url": null
     },
