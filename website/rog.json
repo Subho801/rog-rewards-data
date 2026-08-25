@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T08:39:14.628349+00:00",
-  "count": 642,
+  "updated": "2026-08-25T08:41:13.316484+00:00",
+  "count": 640,
   "items": [
     {
       "id": 2676,
@@ -5309,26 +5309,6 @@
       "cost": 3000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ca348309-d186-4722-873f-8d3047bb157b/",
-      "region": "tr",
-      "reward_url": null
-    },
-    {
-      "id": 5028,
-      "title": "ROG  Mousepad-01",
-      "status": 1,
-      "cost": 3000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/26ae9e17-735f-4738-9613-91465ffde55b/",
-      "region": "tr",
-      "reward_url": null
-    },
-    {
-      "id": 5029,
-      "title": "ROG Mousepad -2 ",
-      "status": 1,
-      "cost": 3000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/39bc3b90-d91d-49bb-bbc5-09d12fd25aee/",
       "region": "tr",
       "reward_url": null
     },
