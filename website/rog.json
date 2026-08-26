@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T09:09:17.691700+00:00",
-  "count": 645,
+  "updated": "2026-08-26T09:17:15.157270+00:00",
+  "count": 646,
   "items": [
     {
       "id": 2676,
@@ -3579,6 +3579,16 @@
       "cost": 3990,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/29d7d83e-69db-4e9a-b4b1-654054090849/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5895,
+      "title": "Cana ROG 20 ani",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9b09a54a-a1e4-4401-8cbe-cb466a3d33ef/",
       "region": "ro",
       "reward_url": null
     },
