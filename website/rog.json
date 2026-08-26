@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T08:29:16.936424+00:00",
-  "count": 642,
+  "updated": "2026-08-26T08:37:29.395824+00:00",
+  "count": 643,
   "items": [
     {
       "id": 2676,
@@ -3549,6 +3549,16 @@
       "cost": 1950,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/efca84a7-e991-4852-8d3a-201d729b07b0/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5892,
+      "title": "Minge fotbal ROG 20th",
+      "status": 1,
+      "cost": 2900,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6eceaa32-056b-4103-8d9e-71f93b5c24f1/",
       "region": "ro",
       "reward_url": null
     },
