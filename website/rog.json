@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T20:34:56.930928+00:00",
-  "count": 641,
+  "updated": "2026-08-26T08:17:30.243627+00:00",
+  "count": 642,
   "items": [
     {
       "id": 2676,
@@ -3539,6 +3539,16 @@
       "cost": 1800,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/45393c1f-285d-4926-b835-282cafc1959f/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5891,
+      "title": "ROG Saga OMNI",
+      "status": 1,
+      "cost": 1950,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/efca84a7-e991-4852-8d3a-201d729b07b0/",
       "region": "ro",
       "reward_url": null
     },
