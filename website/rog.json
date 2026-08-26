@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T08:41:33.819410+00:00",
-  "count": 644,
+  "updated": "2026-08-26T09:09:17.691700+00:00",
+  "count": 645,
   "items": [
     {
       "id": 2676,
@@ -3569,6 +3569,16 @@
       "cost": 1300,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/0ceaae49-831b-4c4c-acce-b906f3a8b8ea/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5894,
+      "title": "Figurina OMNI 20 ani",
+      "status": 1,
+      "cost": 3990,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/29d7d83e-69db-4e9a-b4b1-654054090849/",
       "region": "ro",
       "reward_url": null
     },
