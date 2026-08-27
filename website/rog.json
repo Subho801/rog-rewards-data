@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T11:56:20.774951+00:00",
-  "count": 623,
+  "updated": "2026-08-27T11:58:18.830677+00:00",
+  "count": 619,
   "items": [
     {
       "id": 2676,
@@ -4140,46 +4140,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c1fb7ad3-ccda-463b-92b9-ca41c41df3a2/",
       "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5475,
-      "title": "ARC Raiders",
-      "status": 3,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d1b86ec1-f85b-42f0-9ed4-5c7b308239f7/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5509,
-      "title": "Crimson Desert Deluxe Edition",
-      "status": 3,
-      "cost": 2500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/75cea7bd-e711-4bfa-8b97-77d0daac8cbf/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5597,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/cb4d4d6b-3970-4682-9202-b3862c2d24fe/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5598,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9a4858bd-eaa2-4f10-a85e-79cfd509dbb4/",
-      "region": "sa-ar",
       "reward_url": null
     },
     {
