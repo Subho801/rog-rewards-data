@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T11:52:21.372730+00:00",
-  "count": 636,
+  "updated": "2026-08-27T11:54:20.313823+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -4143,92 +4143,12 @@
       "reward_url": null
     },
     {
-      "id": 1336,
-      "title": "Monster Hunter Rise",
-      "status": 4,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ba1ec667-1a18-4249-bb9b-63dcf41392af/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 2675,
-      "title": "Monster Hunter Wilds",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/6ffc3eb0-fa20-4749-914d-5825941b25f4/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 2708,
-      "title": "Like a dragon 8",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e444fff9-e9fd-4cd8-81a7-a1fc2997d09d/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 2709,
-      "title": "Metaphor: ReFantazio",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/7f2fa0ec-083b-487a-bcbf-eb7c4c104a28/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 2757,
-      "title": "Persona 3 Reload",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/45bdc0fc-0fd2-44db-9bf5-c656b17fbf7b/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
       "id": 5008,
       "title": "ROG Apex Windbreaker",
       "status": 3,
       "cost": 2200,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/fe0b1dee-dd5b-4375-ba60-6974c29eb03e/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5039,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/7e1c9187-5625-4466-9f7d-857cd6b9bd05/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5059,
-      "title": "Mystery Bundle (احصل على 5 ألعاب عشوائيًا)",
-      "status": 3,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c8887912-4279-4ff8-a0f9-11cb9e310de6/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5122,
-      "title": "Balatro",
-      "status": 3,
-      "cost": 450,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9613b59f-cdf8-4e12-a7a3-5b3ff0e13716/",
       "region": "sa-ar",
       "reward_url": null
     },
