@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T10:01:24.052014+00:00",
-  "count": 646,
+  "updated": "2026-08-27T11:52:21.372730+00:00",
+  "count": 636,
   "items": [
     {
       "id": 2676,
@@ -4233,52 +4233,12 @@
       "reward_url": null
     },
     {
-      "id": 5265,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/357b5d64-6a95-4c7e-b30d-dc0389a1772f/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
       "id": 5349,
       "title": "ROG HORSEM4N Figure",
       "status": 3,
       "cost": 2500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/abbd7362-5bb4-4c9c-b8f4-4fc4bd989751/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5369,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5ccd306b-8490-46d5-9e8d-92220c373ca0/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5370,
-      "title": "10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ab8c2468-cb60-4058-a4a2-8862cbbb7910/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5419,
-      "title": "ASUS Mug",
-      "status": 3,
-      "cost": 600,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9ddd07d0-bcf0-43db-bca1-4382725b7df1/",
       "region": "sa-ar",
       "reward_url": null
     },
@@ -4299,36 +4259,6 @@
       "cost": 2500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/75cea7bd-e711-4bfa-8b97-77d0daac8cbf/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5528,
-      "title": "My Little Universe ",
-      "status": 3,
-      "cost": 400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/aeff138c-19b9-4fa6-93d5-c4e834dfe7d3/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5591,
-      "title": "5 USD Global gift card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9b7758eb-b2b7-41d8-a85d-cbf4b9176a48/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5593,
-      "title": "5 USD Global gift card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/eb2e1e74-daa3-4e15-9390-7dd8e9d8b09c/",
       "region": "sa-ar",
       "reward_url": null
     },
@@ -4363,42 +4293,12 @@
       "reward_url": null
     },
     {
-      "id": 5709,
-      "title": "Starfield",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c8675f57-6366-410e-8d97-c869d289ba51/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
       "id": 5712,
       "title": "Pumpkin Jack",
       "status": 1,
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/75892d06-c299-43e4-84b4-ee35fec7dcd6/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5713,
-      "title": "26Q3 Knock'em Out",
-      "status": 3,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/bb40989b-5659-419b-91bf-1a19a9fa9073/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5727,
-      "title": "Gang Beast ",
-      "status": 3,
-      "cost": 1000,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/103485f7-1ce9-4124-88ff-bea0fcd74779/",
       "region": "sa-ar",
       "reward_url": null
     },
