@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T11:54:20.313823+00:00",
-  "count": 628,
+  "updated": "2026-08-27T11:56:20.774951+00:00",
+  "count": 623,
   "items": [
     {
       "id": 2676,
@@ -4143,26 +4143,6 @@
       "reward_url": null
     },
     {
-      "id": 5008,
-      "title": "ROG Apex Windbreaker",
-      "status": 3,
-      "cost": 2200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/fe0b1dee-dd5b-4375-ba60-6974c29eb03e/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5349,
-      "title": "ROG HORSEM4N Figure",
-      "status": 3,
-      "cost": 2500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/abbd7362-5bb4-4c9c-b8f4-4fc4bd989751/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
       "id": 5475,
       "title": "ARC Raiders",
       "status": 3,
@@ -4219,36 +4199,6 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/75892d06-c299-43e4-84b4-ee35fec7dcd6/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5802,
-      "title": "ROG RANGER SUITCASE",
-      "status": 3,
-      "cost": 5000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1e106ee2-be8d-4297-b54f-71ace231d455/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5803,
-      "title": "ROG Ranger Waist Pack",
-      "status": 3,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b1f004bd-e6f3-43bc-b0bc-463ca69699d7/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5804,
-      "title": "ROG T-shirt",
-      "status": 3,
-      "cost": 500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4d3b4c31-8be4-4e02-b2c6-b248b21440b1/",
       "region": "sa-ar",
       "reward_url": null
     },
