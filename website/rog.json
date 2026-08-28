@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T07:50:43.158903+00:00",
-  "count": 618,
+  "updated": "2026-08-28T07:52:45.081189+00:00",
+  "count": 619,
   "items": [
     {
       "id": 2676,
@@ -3299,6 +3299,16 @@
       "cost": 2900,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/7ad2ba26-56a0-4071-b1f0-a4d40eab8ea1/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5800,
+      "title": "Wakacyjne Dropy: gry na STEAM. Co kilka dni kolejny zrzut!",
+      "status": 3,
+      "cost": 300,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/20672645-3111-4d45-81d0-1784aed3fb40/",
       "region": "pl",
       "reward_url": null
     },
