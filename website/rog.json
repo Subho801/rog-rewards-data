@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T22:21:07.479047+00:00",
-  "count": 620,
+  "updated": "2026-08-28T22:21:35.816274+00:00",
+  "count": 619,
   "items": [
     {
       "id": 2676,
@@ -5709,16 +5709,6 @@
       "cost": 1750,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/a89d45ec-00f8-4361-9e7d-0c344093041a/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5897,
-      "title": "TWITCH GIFT CARD",
-      "status": 1,
-      "cost": 3000,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/8b59cec2-d5f4-4069-8664-0aa3017ac835/",
       "region": "us",
       "reward_url": null
     },
