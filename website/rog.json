@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T07:06:59.168459+00:00",
-  "count": 618,
+  "updated": "2026-09-01T08:01:20.157871+00:00",
+  "count": 619,
   "items": [
     {
       "id": 2676,
@@ -3359,6 +3359,16 @@
       "cost": 1400,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/615ee694-a64c-4500-8fe2-b94aac25561f/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5888,
+      "title": "Rabat 10% na zakup laptopa w oficjalnym sklepie ASUS",
+      "status": 1,
+      "cost": 100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a164ce28-29c3-4a2a-95c7-7ff02cd9f00d/",
       "region": "pl",
       "reward_url": null
     },
