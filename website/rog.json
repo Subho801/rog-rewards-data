@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T14:53:19.572824+00:00",
-  "count": 622,
+  "updated": "2026-09-02T15:01:24.361941+00:00",
+  "count": 623,
   "items": [
     {
       "id": 2676,
@@ -5429,6 +5429,16 @@
       "cost": 2700,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f201376f-70d8-4558-aa13-3ab6ec16bfcb/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5902,
+      "title": "Чашка ROG",
+      "status": 1,
+      "cost": 600,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5879dba2-0941-4bae-b973-b4a77b489d24/",
       "region": "ua-ua",
       "reward_url": null
     },
