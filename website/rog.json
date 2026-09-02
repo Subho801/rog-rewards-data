@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T07:01:47.946453+00:00",
+  "updated": "2026-09-02T14:30:44.257347+00:00",
   "count": 619,
   "items": [
     {
@@ -5393,12 +5393,12 @@
       "reward_url": null
     },
     {
-      "id": 5814,
-      "title": "Gori: Cuddly Carnage",
-      "status": 3,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/fb6fca9b-c09e-4c14-9c23-f5ca79b35c40/",
+      "id": 5899,
+      "title": "Металевий брелок-карабін ROG",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9f3be8c8-a877-4a93-a7fb-d61dc4ec82e4/",
       "region": "ua-ua",
       "reward_url": null
     },
