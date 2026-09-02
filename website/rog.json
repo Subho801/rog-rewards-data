@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T15:01:24.361941+00:00",
-  "count": 623,
+  "updated": "2026-09-02T15:03:33.130399+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -5439,6 +5439,16 @@
       "cost": 600,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/5879dba2-0941-4bae-b973-b4a77b489d24/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5903,
+      "title": "Шопер ROG",
+      "status": 1,
+      "cost": 800,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/27207ba2-f4de-4c57-8a8a-4771ef847b39/",
       "region": "ua-ua",
       "reward_url": null
     },
