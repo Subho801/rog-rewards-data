@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T14:38:37.811127+00:00",
-  "count": 621,
+  "updated": "2026-09-02T14:53:19.572824+00:00",
+  "count": 622,
   "items": [
     {
       "id": 2676,
@@ -5419,6 +5419,16 @@
       "cost": 1200,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/2bc537ca-339a-4515-9820-59e2aace67ae/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5901,
+      "title": "Вітрівка ROG (світловідбивний елемент)",
+      "status": 1,
+      "cost": 2700,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f201376f-70d8-4558-aa13-3ab6ec16bfcb/",
       "region": "ua-ua",
       "reward_url": null
     },
