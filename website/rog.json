@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T20:51:45.927780+00:00",
-  "count": 629,
+  "updated": "2026-09-03T21:01:22.220351+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -3969,16 +3969,6 @@
       "cost": 2500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/5eda0346-168a-4e0e-80f3-252f1166a66d/",
-      "region": "rs-en",
-      "reward_url": null
-    },
-    {
-      "id": 5520,
-      "title": "PRAGMATA",
-      "status": 10,
-      "cost": 3500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f231a2b1-93d9-4582-bca7-eb154b8d1c08/",
       "region": "rs-en",
       "reward_url": null
     },
