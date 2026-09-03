@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T00:42:52.597064+00:00",
-  "count": 626,
+  "updated": "2026-09-03T08:11:54.308355+00:00",
+  "count": 627,
   "items": [
     {
       "id": 2676,
@@ -3389,6 +3389,16 @@
       "cost": 100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/a164ce28-29c3-4a2a-95c7-7ff02cd9f00d/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 5905,
+      "title": "The Blood of Dawnwalker",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/750e32b7-1515-4812-9eb5-b6a37ac7600f/",
       "region": "pl",
       "reward_url": null
     },
