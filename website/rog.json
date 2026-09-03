@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T15:09:03.280874+00:00",
-  "count": 628,
+  "updated": "2026-09-03T15:11:03.940345+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -5499,6 +5499,16 @@
       "cost": 1200,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/0ae3547d-456e-449c-bf9b-744b91543de4/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5907,
+      "title": "Кепка ROG",
+      "status": 1,
+      "cost": 800,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c2ef5c67-2992-4c58-8226-848bf2f6e8eb/",
       "region": "ua-ua",
       "reward_url": null
     },
