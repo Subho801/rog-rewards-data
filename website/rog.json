@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T23:04:24.532563+00:00",
-  "count": 628,
+  "updated": "2026-09-06T05:57:50.517789+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -4229,6 +4229,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/49865b28-b6bb-4be9-adc8-785d100c85cc/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 5908,
+      "title": "ROG HORSEM4N Figure",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ca887e1e-7277-4dee-ba63-65a6d7183dcf/",
       "region": "sa-ar",
       "reward_url": null
     },
