@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T03:27:40.407561+00:00",
-  "count": 609,
+  "updated": "2026-09-08T04:56:58.603417+00:00",
+  "count": 608,
   "items": [
     {
       "id": 2676,
@@ -3980,16 +3980,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c1fb7ad3-ccda-463b-92b9-ca41c41df3a2/",
       "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5696,
-      "title": "ROG OMNI Figure",
-      "status": 1,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0c4b5086-5d9b-49ec-8779-62329ffe4467/",
-      "region": "sa-ar",
       "reward_url": null
     },
     {
