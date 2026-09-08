@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T03:26:08.447075+00:00",
-  "count": 612,
+  "updated": "2026-09-08T03:27:40.407561+00:00",
+  "count": 609,
   "items": [
     {
       "id": 2676,
@@ -1140,36 +1140,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/dfda1236-9edf-4779-8896-4cd448a78f44/",
       "region": "fr",
-      "reward_url": null
-    },
-    {
-      "id": 270,
-      "title": "5 USD GoGift global gift card",
-      "status": 3,
-      "cost": 200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/api/gain/341b0d4b-ec93-4cd9-b7ec-69702e1dbac5/",
-      "region": "global",
-      "reward_url": null
-    },
-    {
-      "id": 271,
-      "title": "10 USD GoGift global gift card",
-      "status": 3,
-      "cost": 400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/api/gain/f575efd3-c762-41e2-835b-94c98aff33da/",
-      "region": "global",
-      "reward_url": null
-    },
-    {
-      "id": 1082,
-      "title": "Eiyuden Chronicle: Hundred Heroes",
-      "status": 4,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1a21c6d0-a6ee-450d-ac50-79471d72c794/",
-      "region": "global",
       "reward_url": null
     },
     {
