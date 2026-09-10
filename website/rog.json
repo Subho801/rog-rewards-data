@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T12:59:11.362553+00:00",
-  "count": 610,
+  "updated": "2026-09-10T13:09:11.379450+00:00",
+  "count": 611,
   "items": [
     {
       "id": 2676,
@@ -5299,6 +5299,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/dae73923-6cf9-4410-bc1b-a7cc7c06c27e/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5924,
+      "title": "Футболка оверсайз ROG",
+      "status": 1,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5bdc8d4d-60ed-4b32-8e54-7ad20804797c/",
       "region": "ua-ua",
       "reward_url": null
     },
