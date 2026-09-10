@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T07:01:37.482818+00:00",
-  "count": 610,
+  "updated": "2026-09-10T12:57:15.780211+00:00",
+  "count": 609,
   "items": [
     {
       "id": 2676,
@@ -5149,16 +5149,6 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/2d03022b-1fb0-42b0-a8c5-41a09f52054e/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5513,
-      "title": "Худі ROG",
-      "status": 1,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d0ed95df-7b2c-420f-964e-3f7e906058d3/",
       "region": "ua-ua",
       "reward_url": null
     },
