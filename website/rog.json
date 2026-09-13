@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T02:31:15.369319+00:00",
-  "count": 512,
+  "updated": "2026-09-13T02:31:51.435814+00:00",
+  "count": 517,
   "items": [
     {
       "id": 2676,
@@ -940,6 +940,56 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c1f7acd4-4890-4495-92cc-113d9f89182d/",
       "region": "eg-en",
+      "reward_url": null
+    },
+    {
+      "id": 5676,
+      "title": "Final step: join ROG Elite 20th pillow lucky draw",
+      "status": 1,
+      "cost": 0,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/aac807f6-3174-4cc0-9580-b38eae06b423/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5705,
+      "title": "Starfield",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/58344251-1e7d-47ea-9fb6-52ae8c26d2e3/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5706,
+      "title": "Pumpkin Jack",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1748d7c4-6fb7-45d2-b91d-43a2f5cd98f8/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5806,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e4883312-46b5-46c5-95e4-2c5779f5eda0/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5807,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/549881c8-d299-4a08-84d0-b63eb22f86d3/",
+      "region": "global",
       "reward_url": null
     },
     {
