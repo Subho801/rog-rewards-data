@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T15:15:01.251643+00:00",
-  "count": 616,
+  "updated": "2026-09-16T16:55:22.493062+00:00",
+  "count": 615,
   "items": [
     {
       "id": 2676,
@@ -19,16 +19,6 @@
       "cost": 50,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e49cb54c-608d-4cf9-b4ae-7ae2c39c1d5a/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5584,
-      "title": "ROG Crossbody and Neck Phone Strap",
-      "status": 3,
-      "cost": 600,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1ad8926b-5905-4fb7-9b4c-bc328861b65d/",
       "region": "ca-en",
       "reward_url": null
     },
