@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T13:43:00.230624+00:00",
-  "count": 635,
+  "updated": "2026-09-17T14:01:35.137711+00:00",
+  "count": 637,
   "items": [
     {
       "id": 2676,
@@ -4233,6 +4233,16 @@
       "reward_url": null
     },
     {
+      "id": 5913,
+      "title": "Vampire Crawlers",
+      "status": 4,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e955e10f-0b09-4ad5-92a3-796b90c42ff3/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
       "id": 4933,
       "title": "(UAE Exclusive) Limited Edition ROG Elite Gift Box",
       "status": 4,
@@ -5539,6 +5549,16 @@
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/5bdc8d4d-60ed-4b32-8e54-7ad20804797c/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5932,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/428c2eac-743b-46c1-9546-43e97bea5422/",
       "region": "ua-ua",
       "reward_url": null
     },
