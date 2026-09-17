@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T13:01:28.535815+00:00",
-  "count": 634,
+  "updated": "2026-09-17T13:29:11.298201+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -1039,6 +1039,16 @@
       "cost": 8000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/0f760e9a-83b3-4085-857c-6a0b8f2141c9/",
+      "region": "eg-en",
+      "reward_url": null
+    },
+    {
+      "id": 5946,
+      "title": "ROG Mystery box",
+      "status": 1,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ee221ac8-4230-4307-8fcd-dbc8d4460943/",
       "region": "eg-en",
       "reward_url": null
     },
