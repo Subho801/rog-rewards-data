@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T15:01:31.210027+00:00",
-  "count": 638,
+  "updated": "2026-09-17T16:01:22.095531+00:00",
+  "count": 640,
   "items": [
     {
       "id": 2676,
@@ -5613,6 +5613,16 @@
       "reward_url": null
     },
     {
+      "id": 5915,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/0556f574-a70d-432b-a60e-0e7c062830fb/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
       "id": 690,
       "title": "Fanfit $10 Off Coupons",
       "status": 1,
@@ -6229,6 +6239,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/dd0e277b-a4db-462b-9b21-7875094bcd09/",
+      "region": "wa",
+      "reward_url": null
+    },
+    {
+      "id": 5929,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f7f641f7-a3c7-4df4-95ba-dae3dc4cde28/",
       "region": "wa",
       "reward_url": null
     },
