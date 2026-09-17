@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T08:00:50.774283+00:00",
-  "count": 617,
+  "updated": "2026-09-17T09:01:33.320084+00:00",
+  "count": 625,
   "items": [
     {
       "id": 2676,
@@ -489,6 +489,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/ead681a9-a0fb-4cb5-91fc-8a606d0e454c/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5930,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/686e1afa-4b75-4740-9dbe-0c165af30d30/",
       "region": "ea",
       "reward_url": null
     },
@@ -1153,6 +1163,16 @@
       "reward_url": null
     },
     {
+      "id": 5919,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4a702e52-1ae3-40f4-989f-25f2b86ed8a2/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
       "id": 5676,
       "title": "Final step: join ROG Elite 20th pillow lucky draw",
       "status": 1,
@@ -1199,6 +1219,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/549881c8-d299-4a08-84d0-b63eb22f86d3/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5909,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/cfe787b7-7eef-431b-9fd1-18c08c3defc3/",
       "region": "global",
       "reward_url": null
     },
@@ -2573,6 +2603,16 @@
       "reward_url": null
     },
     {
+      "id": 5936,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/73f44b5d-e703-42a3-ad35-6de6e19d3b20/",
+      "region": "my",
+      "reward_url": null
+    },
+    {
       "id": 237,
       "title": "Ghostrunner",
       "status": 3,
@@ -2899,6 +2939,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/2215401f-1a0d-4d85-9e51-5d2f28a84891/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
+      "id": 5920,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/20d83c56-a355-40f3-9459-3824c0139b15/",
       "region": "ph",
       "reward_url": null
     },
@@ -4503,6 +4553,16 @@
       "reward_url": null
     },
     {
+      "id": 5911,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9f1f952f-444b-41d4-93b6-d0a9712009d7/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
       "id": 1506,
       "title": "ROG príručný kufor",
       "status": 1,
@@ -5209,6 +5269,16 @@
       "cost": 2000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f8ac6b5e-a90c-4001-94a4-5238a9ea8dae/",
+      "region": "tr",
+      "reward_url": null
+    },
+    {
+      "id": 5935,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3edd3424-4f49-48c9-95b3-c270c06bb823/",
       "region": "tr",
       "reward_url": null
     },
@@ -6169,6 +6239,16 @@
       "cost": 2100,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/b1bf37d0-781a-4600-83ac-946e58f0d652/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5914,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b93e3bcc-4aa2-4fe5-9d22-a67f3c6d3527/",
       "region": "za",
       "reward_url": null
     }
