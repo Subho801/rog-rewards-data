@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T10:35:48.745978+00:00",
-  "count": 631,
+  "updated": "2026-09-17T10:37:48.713940+00:00",
+  "count": 630,
   "items": [
     {
       "id": 2676,
@@ -929,16 +929,6 @@
       "cost": 5000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/6c4a2065-5325-4f86-a6a3-12e254242bb9/",
-      "region": "eg-en",
-      "reward_url": null
-    },
-    {
-      "id": 5645,
-      "title": "ROG KERIS Wireless Aimpoint mouse",
-      "status": 1,
-      "cost": 8000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/7a8e6d2d-33f9-4063-b528-a9b25dfc342b/",
       "region": "eg-en",
       "reward_url": null
     },
