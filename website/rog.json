@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T10:29:41.482461+00:00",
-  "count": 630,
+  "updated": "2026-09-17T10:35:48.745978+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -1019,6 +1019,16 @@
       "cost": 10000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ed81a7cf-5010-4f01-aac6-d25e4448bab1/",
+      "region": "eg-en",
+      "reward_url": null
+    },
+    {
+      "id": 5944,
+      "title": "ROG keris II ace.",
+      "status": 1,
+      "cost": 6000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b0fa2814-6e0f-466d-b9db-84a98d374d55/",
       "region": "eg-en",
       "reward_url": null
     },
