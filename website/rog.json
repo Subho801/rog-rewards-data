@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T07:01:49.004992+00:00",
-  "count": 616,
+  "updated": "2026-09-17T08:00:50.774283+00:00",
+  "count": 617,
   "items": [
     {
       "id": 2676,
@@ -3479,6 +3479,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/9b09a54a-a1e4-4401-8cbe-cb466a3d33ef/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5910,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/29607d31-92e2-45b3-99b8-a95da66a3630/",
       "region": "ro",
       "reward_url": null
     },
