@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T11:49:18.140504+00:00",
-  "count": 643,
+  "updated": "2026-09-18T11:55:12.203574+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -1799,6 +1799,16 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/38706b49-79fb-4380-96f3-02d68e2cbdbc/",
+      "region": "in",
+      "reward_url": null
+    },
+    {
+      "id": 5950,
+      "title": "Fallout 4",
+      "status": 1,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9e0f2c95-053a-424d-a8e0-7d72565dc567/",
       "region": "in",
       "reward_url": null
     },
