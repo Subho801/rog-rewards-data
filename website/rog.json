@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T11:55:12.203574+00:00",
-  "count": 644,
+  "updated": "2026-09-18T11:57:13.138265+00:00",
+  "count": 645,
   "items": [
     {
       "id": 2676,
@@ -1809,6 +1809,16 @@
       "cost": 1800,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9e0f2c95-053a-424d-a8e0-7d72565dc567/",
+      "region": "in",
+      "reward_url": null
+    },
+    {
+      "id": 5951,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d12ce2e9-9544-4f61-9aeb-363f18f03e0b/",
       "region": "in",
       "reward_url": null
     },
