@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T10:32:29.895797+00:00",
-  "count": 643,
+  "updated": "2026-09-21T10:50:47.661846+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -6289,6 +6289,16 @@
       "cost": 500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/54e065f4-c83a-4eb2-8872-4c37441f4012/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5190,
+      "title": "ROG Coin Pouch",
+      "status": 1,
+      "cost": 650,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3c8afbcf-3f5f-426f-99b7-c797069be200/",
       "region": "za",
       "reward_url": null
     },
