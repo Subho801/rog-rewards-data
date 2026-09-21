@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T03:03:27.079723+00:00",
-  "count": 639,
+  "updated": "2026-09-21T03:04:03.009342+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -5610,6 +5610,56 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/428c2eac-743b-46c1-9546-43e97bea5422/",
       "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5142,
+      "title": "Sniper Elite: Resistance",
+      "status": 4,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/cc3e7ef5-8d90-4524-9c85-0c7b5f967d3a/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5745,
+      "title": "Pumpkin Jack",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/162602c1-18ac-4484-9492-0a69a5bc2203/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5847,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/27f6c3a0-d47a-4ace-a96a-6a9478b4f7d1/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5848,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5915,
+      "title": "Vampire Crawlers",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/0556f574-a70d-432b-a60e-0e7c062830fb/",
+      "region": "uk",
       "reward_url": null
     },
     {
