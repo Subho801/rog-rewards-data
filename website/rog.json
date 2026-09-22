@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:10:15.182807+00:00",
+  "updated": "2026-09-22T07:12:08.340277+00:00",
   "count": 644,
   "items": [
     {
@@ -5235,7 +5235,7 @@
     {
       "id": 5246,
       "title": "ROG Pouch",
-      "status": 3,
+      "status": 1,
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/d6070bdf-c3f6-4901-aca7-f010ef780a27/",
