@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T07:12:08.340277+00:00",
-  "count": 644,
+  "updated": "2026-09-22T09:45:58.766911+00:00",
+  "count": 645,
   "items": [
     {
       "id": 2676,
@@ -4239,6 +4239,16 @@
       "cost": 1500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9012257a-1452-4428-b9e9-7b60db5f7180/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5952,
+      "title": "Resonance: A Plague Tale Legacy",
+      "status": 1,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e928e8ae-4c22-4daa-b58d-5a13d3ce1a8b/",
       "region": "ru",
       "reward_url": null
     },
