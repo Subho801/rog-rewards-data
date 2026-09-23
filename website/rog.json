@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T09:01:25.601810+00:00",
-  "count": 645,
+  "updated": "2026-09-23T09:11:37.717439+00:00",
+  "count": 643,
   "items": [
     {
       "id": 2676,
@@ -5493,16 +5493,6 @@
       "reward_url": null
     },
     {
-      "id": 5722,
-      "title": "Knock_em Out",
-      "status": 2,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e8fd09e2-5bdb-43f8-aa0e-f6ce99540fbc/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
       "id": 5812,
       "title": "Fallout 4",
       "status": 4,
@@ -5539,16 +5529,6 @@
       "cost": 2700,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f201376f-70d8-4558-aa13-3ab6ec16bfcb/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5902,
-      "title": "Чашка ROG",
-      "status": 3,
-      "cost": 600,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5879dba2-0941-4bae-b973-b4a77b489d24/",
       "region": "ua-ua",
       "reward_url": null
     },
