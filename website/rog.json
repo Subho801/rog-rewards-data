@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T14:19:43.342502+00:00",
-  "count": 642,
+  "updated": "2026-09-23T14:36:14.755856+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -3509,16 +3509,6 @@
       "cost": 2100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9df88535-4800-415a-85b0-6ce757a76f83/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5211,
-      "title": "ROG Jenga",
-      "status": 3,
-      "cost": 800,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f08dad47-2c04-44e8-b713-e1b83146cc68/",
       "region": "ro",
       "reward_url": null
     },
