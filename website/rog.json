@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T11:34:00.409501+00:00",
-  "count": 643,
+  "updated": "2026-09-23T14:19:43.342502+00:00",
+  "count": 642,
   "items": [
     {
       "id": 2676,
@@ -5539,16 +5539,6 @@
       "cost": 800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/27207ba2-f4de-4c57-8a8a-4771ef847b39/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5906,
-      "title": "Термопляшка ROG",
-      "status": 3,
-      "cost": 1200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0ae3547d-456e-449c-bf9b-744b91543de4/",
       "region": "ua-ua",
       "reward_url": null
     },
