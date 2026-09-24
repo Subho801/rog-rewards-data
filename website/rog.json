@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T09:26:58.978866+00:00",
-  "count": 642,
+  "updated": "2026-09-24T09:31:00.372796+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -4239,6 +4239,26 @@
       "cost": 3000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f1009a03-1909-4a08-a593-a0e69bfdf684/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5955,
+      "title": "Omni CHANGING FACE ",
+      "status": 10,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5534e447-4af9-4b9b-8f35-d4250aaf3ebe/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5957,
+      "title": "Термокружка ROG 20th ",
+      "status": 1,
+      "cost": 3000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e8beb1ed-2067-4a6c-8fd5-29bc15b54b88/",
       "region": "ru",
       "reward_url": null
     },
