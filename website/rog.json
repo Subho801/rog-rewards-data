@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T09:31:00.372796+00:00",
-  "count": 644,
+  "updated": "2026-09-24T09:34:08.707260+00:00",
+  "count": 645,
   "items": [
     {
       "id": 2676,
@@ -4249,6 +4249,16 @@
       "cost": 2000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/5534e447-4af9-4b9b-8f35-d4250aaf3ebe/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5956,
+      "title": "ROG 20th (Значок)",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/259faa7c-a171-4a8b-9396-e54fa71bf4b2/",
       "region": "ru",
       "reward_url": null
     },
