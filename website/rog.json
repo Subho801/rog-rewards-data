@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T06:15:40.761667+00:00",
-  "count": 641,
+  "updated": "2026-09-24T09:26:58.978866+00:00",
+  "count": 642,
   "items": [
     {
       "id": 2676,
@@ -4229,6 +4229,16 @@
       "cost": 1500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e928e8ae-4c22-4daa-b58d-5a13d3ce1a8b/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5954,
+      "title": "Omni Gold ",
+      "status": 1,
+      "cost": 3000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f1009a03-1909-4a08-a593-a0e69bfdf684/",
       "region": "ru",
       "reward_url": null
     },
