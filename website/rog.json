@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T08:11:26.064554+00:00",
-  "count": 647,
+  "updated": "2026-09-25T08:36:23.743344+00:00",
+  "count": 646,
   "items": [
     {
       "id": 2676,
@@ -1309,16 +1309,6 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/811ef529-427d-43fb-8d5f-a7894219acc4/",
-      "region": "hu",
-      "reward_url": null
-    },
-    {
-      "id": 2867,
-      "title": "5 USD GoGift Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/957c3ab3-6077-4b40-91c5-1dfbf9c0dea1/",
       "region": "hu",
       "reward_url": null
     },
