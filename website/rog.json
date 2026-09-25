@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T07:20:04.644816+00:00",
-  "count": 646,
+  "updated": "2026-09-25T07:25:01.896595+00:00",
+  "count": 647,
   "items": [
     {
       "id": 2676,
@@ -1809,6 +1809,16 @@
       "cost": 1600,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/4e9f9c95-1dcb-4741-9235-27e3a1b91804/",
+      "region": "in",
+      "reward_url": null
+    },
+    {
+      "id": 5962,
+      "title": "ROG Elite Bottle ",
+      "status": 1,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6170dd12-41c1-47bb-b2c8-192412d2bc90/",
       "region": "in",
       "reward_url": null
     },
