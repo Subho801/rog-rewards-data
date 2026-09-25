@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T07:03:09.611290+00:00",
-  "count": 645,
+  "updated": "2026-09-25T07:20:04.644816+00:00",
+  "count": 646,
   "items": [
     {
       "id": 2676,
@@ -1799,6 +1799,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/d12ce2e9-9544-4f61-9aeb-363f18f03e0b/",
+      "region": "in",
+      "reward_url": null
+    },
+    {
+      "id": 5961,
+      "title": "ROG Elite Travel Flask ",
+      "status": 10,
+      "cost": 1600,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4e9f9c95-1dcb-4741-9235-27e3a1b91804/",
       "region": "in",
       "reward_url": null
     },
