@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T18:25:21.186541+00:00",
-  "count": 645,
+  "updated": "2026-09-25T07:01:10.883383+00:00",
+  "count": 639,
   "items": [
     {
       "id": 2676,
@@ -4270,66 +4270,6 @@
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/e8beb1ed-2067-4a6c-8fd5-29bc15b54b88/",
       "region": "ru",
-      "reward_url": null
-    },
-    {
-      "id": 5712,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/75892d06-c299-43e4-84b4-ee35fec7dcd6/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5805,
-      "title": "ROG Elite MAG CARD",
-      "status": 1,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/7ab9cff6-1a38-40ed-935a-35367a6de9ea/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5835,
-      "title": "Fallout 4",
-      "status": 1,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/780b8979-a33c-4080-b0ab-246abdb0c3b3/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5836,
-      "title": "Gori: Cuddly Carnage",
-      "status": 3,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/49865b28-b6bb-4be9-adc8-785d100c85cc/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5908,
-      "title": "ROG HORSEM4N Figure",
-      "status": 3,
-      "cost": 2000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ca887e1e-7277-4dee-ba63-65a6d7183dcf/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5913,
-      "title": "Vampire Crawlers",
-      "status": 4,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e955e10f-0b09-4ad5-92a3-796b90c42ff3/",
-      "region": "sa-ar",
       "reward_url": null
     },
     {
