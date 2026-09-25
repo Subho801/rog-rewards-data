@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T20:27:13.070861+00:00",
-  "count": 647,
+  "updated": "2026-09-25T20:29:15.205094+00:00",
+  "count": 648,
   "items": [
     {
       "id": 2676,
@@ -89,6 +89,16 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/5b487a19-4d1e-4192-93e4-6e672276f4f1/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5958,
+      "title": "$10 CAD Boston Pizza Gift Card",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/935052a8-c5cb-4a29-a983-dc8204d38389/",
       "region": "ca-en",
       "reward_url": null
     },
