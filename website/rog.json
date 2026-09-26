@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T13:28:27.914495+00:00",
-  "count": 641,
+  "updated": "2026-09-26T13:30:50.212031+00:00",
+  "count": 648,
   "items": [
     {
       "id": 2676,
@@ -460,6 +460,76 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/15739244-7787-4214-a3b3-47c33356f229/",
       "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 2715,
+      "title": "Monster Hunter Wilds",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/59c706f1-38f8-49dc-8e25-985094bcee5a/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5128,
+      "title": "Mystery Bundle (get 5 games randomly)",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8e68b953-34f7-455d-b968-b5c0463f30aa/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5401,
+      "title": "Resident Evil Requiem Game Pass",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c4af99f9-51ec-4be3-a65b-889b24baefa7/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5459,
+      "title": "Mystery Bundle (get 5 random games)",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ad5b4e6b-0173-4e18-8d25-c3f8a5a811dd/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5850,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1f07e694-34c0-48ff-a4f3-a27c71a78018/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5851,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ead681a9-a0fb-4cb5-91fc-8a606d0e454c/",
+      "region": "ea",
+      "reward_url": null
+    },
+    {
+      "id": 5930,
+      "title": "Vampire Crawlers",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/686e1afa-4b75-4740-9dbe-0c165af30d30/",
+      "region": "ea",
       "reward_url": null
     },
     {
