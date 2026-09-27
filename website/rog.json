@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T14:35:22.756960+00:00",
-  "count": 648,
+  "updated": "2026-09-27T07:46:57.880674+00:00",
+  "count": 638,
   "items": [
     {
       "id": 2676,
@@ -1730,106 +1730,6 @@
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a73920f7-47c9-42c2-9305-e6023b8cf241/",
       "region": "il",
-      "reward_url": null
-    },
-    {
-      "id": 5391,
-      "title": "Discount Coupon Code - Laptop ",
-      "status": 1,
-      "cost": 2200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/63537141-ec94-49ea-b3e0-7f8ffacdfa9a/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5392,
-      "title": "Discount Coupon Code - Accessory ",
-      "status": 1,
-      "cost": 400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/934001e0-c141-4297-8d0a-a99edfaece79/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5771,
-      "title": "Starfield",
-      "status": 2,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5da64ff9-27ce-4611-9253-ebe86a2bac14/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5772,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9173a0cf-9672-4124-9ea3-b5221144b8ca/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5773,
-      "title": "Knock em Out",
-      "status": 3,
-      "cost": 300,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/65f707fe-061d-43a3-b7a5-4e861911f383/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5949,
-      "title": "Vampire Crawlers",
-      "status": 2,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/38706b49-79fb-4380-96f3-02d68e2cbdbc/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5950,
-      "title": "Fallout 4",
-      "status": 1,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9e0f2c95-053a-424d-a8e0-7d72565dc567/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5951,
-      "title": "Gori: Cuddly Carnage",
-      "status": 1,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d12ce2e9-9544-4f61-9aeb-363f18f03e0b/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5961,
-      "title": "ROG Elite Travel Flask ",
-      "status": 10,
-      "cost": 1600,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4e9f9c95-1dcb-4741-9235-27e3a1b91804/",
-      "region": "in",
-      "reward_url": null
-    },
-    {
-      "id": 5962,
-      "title": "ROG Elite Bottle ",
-      "status": 3,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/6170dd12-41c1-47bb-b2c8-192412d2bc90/",
-      "region": "in",
       "reward_url": null
     },
     {
