@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T12:05:20.841443+00:00",
-  "count": 644,
+  "updated": "2026-09-28T12:05:50.086944+00:00",
+  "count": 643,
   "items": [
     {
       "id": 2676,
@@ -3269,16 +3269,6 @@
       "cost": 3800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a061ee41-d935-44f6-bb39-85cb6e0ea79d/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5569,
-      "title": "007 First Light",
-      "status": 3,
-      "cost": 2200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4160b97f-3d42-427a-892a-e41baab85d1f/",
       "region": "pl",
       "reward_url": null
     },
