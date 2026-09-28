@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T07:48:21.477104+00:00",
-  "count": 648,
+  "updated": "2026-09-28T03:15:54.587916+00:00",
+  "count": 647,
   "items": [
     {
       "id": 2676,
@@ -4719,16 +4719,6 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/e280f499-5737-4d9c-b172-3971d032229b/",
-      "region": "sg",
-      "reward_url": null
-    },
-    {
-      "id": 5794,
-      "title": "Starfield",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/054ea1cb-cb61-405c-b2a7-6e9215255b9c/",
       "region": "sg",
       "reward_url": null
     },
