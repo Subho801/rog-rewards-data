@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T15:55:32.208763+00:00",
-  "count": 642,
+  "updated": "2026-09-29T07:58:56.389669+00:00",
+  "count": 641,
   "items": [
     {
       "id": 2676,
@@ -3119,16 +3119,6 @@
       "cost": 2000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/fbbe53b8-0d07-4ebd-bb20-50f216f89284/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5237,
-      "title": "Battlefield 6",
-      "status": 3,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4c368e8c-7cf4-4402-a0d0-6acce7cdcb76/",
       "region": "pl",
       "reward_url": null
     },
