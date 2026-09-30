@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T14:13:31.765266+00:00",
-  "count": 636,
+  "updated": "2026-09-30T15:01:35.816501+00:00",
+  "count": 633,
   "items": [
     {
       "id": 2676,
@@ -3043,16 +3043,6 @@
       "reward_url": null
     },
     {
-      "id": 4878,
-      "title": "5 USD Global gift card 2025",
-      "status": 1,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1894fa99-9355-4d80-9c0e-0cd6c03980d5/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
       "id": 4879,
       "title": "Karta podarunkowa GoGift o wartości 10 USD",
       "status": 3,
@@ -3223,16 +3213,6 @@
       "reward_url": null
     },
     {
-      "id": 5689,
-      "title": "Gothic Remake",
-      "status": 4,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/06466533-1a36-41a3-a38d-088c1d693b2a/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
       "id": 5738,
       "title": "Starfield",
       "status": 4,
@@ -3259,16 +3239,6 @@
       "cost": 300,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c5c7bc45-ce9c-4867-a1a3-dfaef4c1742b/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5793,
-      "title": "Słuchawki ROG Cetra True Wireless",
-      "status": 4,
-      "cost": 2900,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/7ad2ba26-56a0-4071-b1f0-a4d40eab8ea1/",
       "region": "pl",
       "reward_url": null
     },
