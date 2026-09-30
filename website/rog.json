@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T15:12:22.799157+00:00",
-  "count": 633,
+  "updated": "2026-09-30T21:00:56.071614+00:00",
+  "count": 632,
   "items": [
     {
       "id": 2676,
@@ -3329,16 +3329,6 @@
       "cost": 2900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/5b0ae9d7-fb4b-4486-8084-30a2b59f6e5a/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5964,
-      "title": "CONTROL Resonant",
-      "status": 1,
-      "cost": 2400,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/848e42ba-ff85-4603-8891-1f482704d33a/",
       "region": "pl",
       "reward_url": null
     },
