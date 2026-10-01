@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T12:43:00.292401+00:00",
-  "count": 633,
+  "updated": "2026-10-01T12:44:59.701794+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -3403,16 +3403,6 @@
       "reward_url": null
     },
     {
-      "id": 5156,
-      "title": "Lanyard ROG For Those Who Dare",
-      "status": 3,
-      "cost": 400,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/a1f4b35e-1bbc-46b1-a926-ac2c97d4af86/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
       "id": 5173,
       "title": "Figurina ROG OMNI Alb",
       "status": 1,
@@ -3499,16 +3489,6 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c120ae9f-7f56-4d2d-95d0-d5526c229235/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5833,
-      "title": "Gori: Cuddly Carnage",
-      "status": 3,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/06c36b90-af83-407e-b5b3-0b9b0736e520/",
       "region": "ro",
       "reward_url": null
     },
