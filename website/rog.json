@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T07:42:04.790518+00:00",
-  "count": 633,
+  "updated": "2026-10-01T09:07:25.645329+00:00",
+  "count": 634,
   "items": [
     {
       "id": 2676,
@@ -1259,6 +1259,16 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/cfe787b7-7eef-431b-9fd1-18c08c3defc3/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 5967,
+      "title": "October Elite sweepstakes (Elite pillow)",
+      "status": 4,
+      "cost": 0,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c2e6be39-2a78-4848-83a4-74c8b8fb0a29/",
       "region": "global",
       "reward_url": null
     },
