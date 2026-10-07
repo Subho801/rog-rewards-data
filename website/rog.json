@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T13:59:25.912453+00:00",
-  "count": 635,
+  "updated": "2026-10-07T14:03:40.735581+00:00",
+  "count": 636,
   "items": [
     {
       "id": 2676,
@@ -6349,6 +6349,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/b733cb96-9d4c-4972-afd6-7fe37308e53a/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5975,
+      "title": "20th Anniversary Sticker Pack",
+      "status": 1,
+      "cost": 350,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/2a7c1a3c-243d-4011-abd4-72a2ca0b0bce/",
       "region": "za",
       "reward_url": null
     }
