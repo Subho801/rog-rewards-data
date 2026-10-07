@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T07:01:43.780863+00:00",
-  "count": 630,
+  "updated": "2026-10-07T07:38:29.537089+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -3339,16 +3339,6 @@
       "cost": 2400,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/848e42ba-ff85-4603-8891-1f482704d33a/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5966,
-      "title": "Insygnia Elity 2. Zestaw Kolekcjonerski ROG",
-      "status": 3,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/6f9fb403-456c-4779-bc64-afeee3317604/",
       "region": "pl",
       "reward_url": null
     },
