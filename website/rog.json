@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T13:39:39.608275+00:00",
-  "count": 632,
+  "updated": "2026-10-07T13:45:36.735081+00:00",
+  "count": 633,
   "items": [
     {
       "id": 2676,
@@ -6319,6 +6319,16 @@
       "cost": 1600,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/bf241e21-7c36-4248-99f6-1da68a230529/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5972,
+      "title": "OMNI Hangpal",
+      "status": 4,
+      "cost": 1400,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/adc709d8-731a-436e-b0d9-ba5b989e1b8c/",
       "region": "za",
       "reward_url": null
     }
