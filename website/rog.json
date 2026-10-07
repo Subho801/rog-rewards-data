@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T12:25:07.699788+00:00",
-  "count": 630,
+  "updated": "2026-10-07T13:35:41.892233+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -6299,6 +6299,16 @@
       "cost": 1350,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/6e5bacf1-0052-442a-a8a3-3228a742bc53/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5970,
+      "title": "20th Anniversary Pin Set",
+      "status": 4,
+      "cost": 450,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/624565f0-8fdc-433f-9155-613ba7b0b8c1/",
       "region": "za",
       "reward_url": null
     }
