@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T06:50:56.806732+00:00",
-  "count": 633,
+  "updated": "2026-10-12T06:54:51.518997+00:00",
+  "count": 632,
   "items": [
     {
       "id": 2676,
@@ -3389,16 +3389,6 @@
       "cost": 4000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/5573d06e-5064-4cec-abba-657c7868a735/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5155,
-      "title": "Breloc metalic ROG",
-      "status": 3,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c2e604bf-0480-4423-92db-7566b21ed5f8/",
       "region": "ro",
       "reward_url": null
     },
