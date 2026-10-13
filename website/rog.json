@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T16:32:12.175603+00:00",
-  "count": 624,
+  "updated": "2026-10-13T22:09:50.314303+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -69,6 +69,26 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/935052a8-c5cb-4a29-a983-dc8204d38389/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5959,
+      "title": "$10 CAD Columbia Sportswear Gift Card",
+      "status": 1,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9be9525f-356d-4f2e-a457-6156afb804f0/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5980,
+      "title": "$5 USD Global Gift Card",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/740e1a39-16af-46a0-8ff9-b24f6e438f4b/",
       "region": "ca-en",
       "reward_url": null
     },
