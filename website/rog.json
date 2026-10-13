@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T09:13:44.762071+00:00",
-  "count": 628,
+  "updated": "2026-10-13T09:20:02.449769+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -6279,6 +6279,16 @@
       "cost": 350,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/2a7c1a3c-243d-4011-abd4-72a2ca0b0bce/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 5977,
+      "title": "Limited Edition ROG 3D Lamp",
+      "status": 1,
+      "cost": 650,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3933def2-eb1a-49b3-886b-72b39f1d5182/",
       "region": "za",
       "reward_url": null
     }
