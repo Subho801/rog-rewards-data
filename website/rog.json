@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T15:16:22.803969+00:00",
-  "count": 627,
+  "updated": "2026-10-13T16:32:12.175603+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -53,42 +53,12 @@
       "reward_url": null
     },
     {
-      "id": 5889,
-      "title": "$5 USD Global Gift Card ",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f0563645-e015-4d65-bee0-602b027a947d/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5890,
-      "title": "$10 USD Global gift card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/b3aeae4d-b8e4-48d1-af46-28dc5bb0788d/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
       "id": 5896,
       "title": "$15 CAD Twitch gift card ",
       "status": 1,
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/1a62e5cc-b7e3-4739-9736-ac5f1bba3a56/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5925,
-      "title": "$15 CAD Adidas gift card ",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5b487a19-4d1e-4192-93e4-6e672276f4f1/",
       "region": "ca-en",
       "reward_url": null
     },
