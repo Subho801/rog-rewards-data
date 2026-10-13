@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T07:52:57.343519+00:00",
-  "count": 629,
+  "updated": "2026-10-13T09:13:44.762071+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -6219,16 +6219,6 @@
       "cost": 2100,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/b1bf37d0-781a-4600-83ac-946e58f0d652/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5965,
-      "title": "Limited Edition 3D Lamp",
-      "status": 1,
-      "cost": 1350,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/6e5bacf1-0052-442a-a8a3-3228a742bc53/",
       "region": "za",
       "reward_url": null
     },
