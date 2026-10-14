@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T10:07:44.751863+00:00",
-  "count": 624,
+  "updated": "2026-10-14T11:59:37.653343+00:00",
+  "count": 623,
   "items": [
     {
       "id": 2676,
@@ -3399,16 +3399,6 @@
       "cost": 2100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9df88535-4800-415a-85b0-6ce757a76f83/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5318,
-      "title": "Team ROG GiftBox",
-      "status": 1,
-      "cost": 3300,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/a7778df5-4fac-4b3e-9f40-9ed1cfffb79c/",
       "region": "ro",
       "reward_url": null
     },
