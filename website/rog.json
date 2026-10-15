@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T09:59:15.215685+00:00",
-  "count": 631,
+  "updated": "2026-10-15T10:11:44.217124+00:00",
+  "count": 632,
   "items": [
     {
       "id": 2676,
@@ -4109,6 +4109,16 @@
       "cost": 3000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/e8beb1ed-2067-4a6c-8fd5-29bc15b54b88/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5982,
+      "title": "Onimusha: Way of the Sword ",
+      "status": 1,
+      "cost": 2400,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/35a16114-2f05-4b44-9f61-f6beab589af1/",
       "region": "ru",
       "reward_url": null
     },
