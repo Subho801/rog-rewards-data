@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T09:01:27.331573+00:00",
-  "count": 630,
+  "updated": "2026-10-15T09:59:15.215685+00:00",
+  "count": 631,
   "items": [
     {
       "id": 2676,
@@ -3479,6 +3479,16 @@
       "cost": 3990,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/29d7d83e-69db-4e9a-b4b1-654054090849/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5985,
+      "title": "Onimusha: Way of the Sword Game Codes",
+      "status": 1,
+      "cost": 2400,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d3c9c251-c2c5-460e-b2d6-e0e769fc8877/",
       "region": "ro",
       "reward_url": null
     },
