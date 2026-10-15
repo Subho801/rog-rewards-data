@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T18:43:21.979570+00:00",
-  "count": 631,
+  "updated": "2026-10-15T22:34:00.888742+00:00",
+  "count": 633,
   "items": [
     {
       "id": 2676,
@@ -2449,6 +2449,26 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/619cd5a4-1902-4075-8de0-0b8f9a285f01/",
+      "region": "mx",
+      "reward_url": null
+    },
+    {
+      "id": 5988,
+      "title": "ROG Sica+Keycap ROG",
+      "status": 1,
+      "cost": 1140,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/14c9b0a3-b143-44d5-9537-db5014b35196/",
+      "region": "mx",
+      "reward_url": null
+    },
+    {
+      "id": 5989,
+      "title": "ROG Cleaning Kit+Parches ROG",
+      "status": 1,
+      "cost": 900,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6d42080c-d6b5-46f3-a353-5a58cba5d724/",
       "region": "mx",
       "reward_url": null
     },
