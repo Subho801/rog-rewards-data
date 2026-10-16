@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T08:57:22.023749+00:00",
-  "count": 635,
+  "updated": "2026-10-16T08:59:45.725511+00:00",
+  "count": 634,
   "items": [
     {
       "id": 2676,
@@ -3329,16 +3329,6 @@
       "cost": 100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/a164ce28-29c3-4a2a-95c7-7ff02cd9f00d/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5904,
-      "title": "The Blood of Dawnwalker Edycja Kolekcjonerska",
-      "status": 3,
-      "cost": 4000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/743b67bd-3f40-410a-9485-89955dc6b869/",
       "region": "pl",
       "reward_url": null
     },
