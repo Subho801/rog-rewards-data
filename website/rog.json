@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T20:08:21.661004+00:00",
-  "count": 635,
+  "updated": "2026-10-16T21:01:22.086409+00:00",
+  "count": 636,
   "items": [
     {
       "id": 2676,
@@ -2449,6 +2449,16 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/619cd5a4-1902-4075-8de0-0b8f9a285f01/",
+      "region": "mx",
+      "reward_url": null
+    },
+    {
+      "id": 5987,
+      "title": "Soccer Ball ROG 20th Anniversary",
+      "status": 10,
+      "cost": 1800,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/66d98204-5561-45fd-b984-b7dbccac8e68/",
       "region": "mx",
       "reward_url": null
     },
