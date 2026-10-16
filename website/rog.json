@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T07:00:55.872512+00:00",
-  "count": 634,
+  "updated": "2026-10-16T07:11:27.592067+00:00",
+  "count": 633,
   "items": [
     {
       "id": 2676,
@@ -1720,16 +1720,6 @@
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a73920f7-47c9-42c2-9305-e6023b8cf241/",
       "region": "il",
-      "reward_url": null
-    },
-    {
-      "id": 5391,
-      "title": "Discount Coupon Code - Laptop ",
-      "status": 1,
-      "cost": 2200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/63537141-ec94-49ea-b3e0-7f8ffacdfa9a/",
-      "region": "in",
       "reward_url": null
     },
     {
