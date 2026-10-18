@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T00:02:35.467492+00:00",
-  "count": 636,
+  "updated": "2026-10-18T01:11:02.121869+00:00",
+  "count": 625,
   "items": [
     {
       "id": 2676,
@@ -5330,116 +5330,6 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3edd3424-4f49-48c9-95b3-c270c06bb823/",
       "region": "tr",
-      "reward_url": null
-    },
-    {
-      "id": 2847,
-      "title": "Murky Divers",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/2d03022b-1fb0-42b0-a8c5-41a09f52054e/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5646,
-      "title": "Панама ROG",
-      "status": 1,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4a2e67cc-a500-4788-b253-17392c8a5f3f/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5690,
-      "title": "Вітрівка ROG",
-      "status": 1,
-      "cost": 2500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5fb62b84-4735-47d8-b8e9-00e045764561/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5720,
-      "title": "Starfield",
-      "status": 4,
-      "cost": 2100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/fd38c54f-e10d-489a-83f3-62de3c66e0c8/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5721,
-      "title": "Pumpkin Jack",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/31d63154-86c2-4fe5-9a60-f8f172790ed5/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5812,
-      "title": "Fallout 4",
-      "status": 4,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d3ce3c21-1622-48c5-ab00-7f0964fb6426/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5899,
-      "title": "Металевий брелок-карабін ROG",
-      "status": 3,
-      "cost": 500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9f3be8c8-a877-4a93-a7fb-d61dc4ec82e4/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5900,
-      "title": "Розумний термос ROG з LED-дисплеєм",
-      "status": 3,
-      "cost": 1200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/2bc537ca-339a-4515-9820-59e2aace67ae/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5901,
-      "title": "Вітрівка ROG (світловідбивний елемент)",
-      "status": 1,
-      "cost": 2700,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f201376f-70d8-4558-aa13-3ab6ec16bfcb/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5903,
-      "title": "Шопер ROG",
-      "status": 1,
-      "cost": 800,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/27207ba2-f4de-4c57-8a8a-4771ef847b39/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5924,
-      "title": "Футболка оверсайз ROG",
-      "status": 1,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5bdc8d4d-60ed-4b32-8e54-7ad20804797c/",
-      "region": "ua-ua",
       "reward_url": null
     },
     {
