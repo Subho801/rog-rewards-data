@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T06:36:27.588420+00:00",
-  "count": 636,
+  "updated": "2026-10-19T16:26:23.903302+00:00",
+  "count": 634,
   "items": [
     {
       "id": 2676,
@@ -3379,26 +3379,6 @@
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/6f9fb403-456c-4779-bc64-afeee3317604/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5983,
-      "title": "Bilet jednodniowy na PGA 2026 (sobota)",
-      "status": 3,
-      "cost": 100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/a0aa0474-02f5-4179-bb47-a7d9c0a243c7/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5984,
-      "title": "Bilet jednodniowy na PGA 2026 (niedziela)",
-      "status": 3,
-      "cost": 100,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d04463bd-32b5-4d0f-a0a6-eba4fd418ffc/",
       "region": "pl",
       "reward_url": null
     },
