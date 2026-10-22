@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T19:04:29.983483+00:00",
-  "count": 636,
+  "updated": "2026-10-22T21:00:04.932276+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -79,16 +79,6 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9be9525f-356d-4f2e-a457-6156afb804f0/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5980,
-      "title": "$5 USD Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/740e1a39-16af-46a0-8ff9-b24f6e438f4b/",
       "region": "ca-en",
       "reward_url": null
     },
