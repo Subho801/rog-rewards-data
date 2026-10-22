@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T07:01:50.493176+00:00",
-  "count": 634,
+  "updated": "2026-10-22T10:05:09.134145+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -4139,6 +4139,16 @@
       "cost": 2400,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/35a16114-2f05-4b44-9f61-f6beab589af1/",
+      "region": "ru",
+      "reward_url": null
+    },
+    {
+      "id": 5996,
+      "title": "Футбольный мяч ROG",
+      "status": 1,
+      "cost": 2500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/dce1a974-41f7-4abe-af01-df581d0d07c1/",
       "region": "ru",
       "reward_url": null
     },
