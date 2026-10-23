@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T12:24:57.136798+00:00",
-  "count": 635,
+  "updated": "2026-10-23T20:48:21.126084+00:00",
+  "count": 637,
   "items": [
     {
       "id": 2676,
@@ -79,6 +79,26 @@
       "cost": 1200,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/9be9525f-356d-4f2e-a457-6156afb804f0/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5993,
+      "title": "20th Anniversary ROG Pillows",
+      "status": 1,
+      "cost": 1800,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c11bf200-92f0-4038-88a4-bc1b098a8151/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 6001,
+      "title": "$10 CAD Uber Eats Gift Card",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8341acf7-cf0d-41f9-8c61-aa2cf7dbd814/",
       "region": "ca-en",
       "reward_url": null
     },
