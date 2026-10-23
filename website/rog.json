@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T08:15:22.071764+00:00",
-  "count": 634,
+  "updated": "2026-10-23T12:24:57.136798+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -3499,6 +3499,16 @@
       "cost": 1300,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/1b0bbb45-fb09-4413-a5b6-4edc38661eed/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6000,
+      "title": "Escape from Playtime",
+      "status": 1,
+      "cost": 2400,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/9fae3c18-ab47-476c-b4b9-f0610f757fed/",
       "region": "ro",
       "reward_url": null
     },
