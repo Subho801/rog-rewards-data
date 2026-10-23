@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T20:48:21.126084+00:00",
-  "count": 637,
+  "updated": "2026-10-23T21:01:42.711940+00:00",
+  "count": 638,
   "items": [
     {
       "id": 2676,
@@ -89,6 +89,16 @@
       "cost": 1800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/c11bf200-92f0-4038-88a4-bc1b098a8151/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 5999,
+      "title": "$10 CAD Uber Eats Gift Card",
+      "status": 1,
+      "cost": 1200,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5e60d44d-78d1-47bb-a594-b34e9f128a57/",
       "region": "ca-en",
       "reward_url": null
     },
