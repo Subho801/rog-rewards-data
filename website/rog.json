@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T14:34:11.707299+00:00",
-  "count": 635,
+  "updated": "2026-10-26T14:36:09.128281+00:00",
+  "count": 636,
   "items": [
     {
       "id": 2676,
@@ -3549,6 +3549,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/f2b788a1-1b3c-41bb-adef-a31df7f8ecaa/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6004,
+      "title": "Cana ROG Elite",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1629f90f-4953-49ec-a3cd-abf193f2ce4a/",
       "region": "ro",
       "reward_url": null
     },
