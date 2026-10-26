@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T16:34:14.938664+00:00",
-  "count": 637,
+  "updated": "2026-10-26T19:02:30.064693+00:00",
+  "count": 638,
   "items": [
     {
       "id": 2676,
@@ -5799,6 +5799,16 @@
       "cost": 1000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/59daca06-7f9c-46c6-a700-14ede4e3bf52/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5995,
+      "title": "ROG 20th OMNI Trading Card Pack",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c3e9693c-3360-480b-8593-6eeaf98d7753/",
       "region": "us",
       "reward_url": null
     },
