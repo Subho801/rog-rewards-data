@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T21:25:24.737685+00:00",
-  "count": 638,
+  "updated": "2026-10-26T07:43:48.375053+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -4219,36 +4219,6 @@
       "cost": 1800,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/780b8979-a33c-4080-b0ab-246abdb0c3b3/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5836,
-      "title": "Gori: Cuddly Carnage",
-      "status": 3,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/49865b28-b6bb-4be9-adc8-785d100c85cc/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5908,
-      "title": "ROG HORSEM4N Figure",
-      "status": 3,
-      "cost": 2000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ca887e1e-7277-4dee-ba63-65a6d7183dcf/",
-      "region": "sa-ar",
-      "reward_url": null
-    },
-    {
-      "id": 5913,
-      "title": "Vampire Crawlers",
-      "status": 4,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e955e10f-0b09-4ad5-92a3-796b90c42ff3/",
       "region": "sa-ar",
       "reward_url": null
     },
