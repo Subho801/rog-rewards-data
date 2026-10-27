@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T06:06:31.165440+00:00",
-  "count": 637,
+  "updated": "2026-10-27T06:10:36.520020+00:00",
+  "count": 636,
   "items": [
     {
       "id": 2676,
@@ -6359,16 +6359,6 @@
       "cost": 650,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/3933def2-eb1a-49b3-886b-72b39f1d5182/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 5991,
-      "title": "20th Anniversary VVIP Kit",
-      "status": 4,
-      "cost": 4000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/eb1b3303-22d3-40e2-9df6-df934e56034a/",
       "region": "za",
       "reward_url": null
     }
