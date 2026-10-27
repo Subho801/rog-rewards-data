@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T06:10:36.520020+00:00",
-  "count": 636,
+  "updated": "2026-10-27T07:25:11.812924+00:00",
+  "count": 637,
   "items": [
     {
       "id": 2676,
@@ -1809,6 +1809,16 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/d12ce2e9-9544-4f61-9aeb-363f18f03e0b/",
+      "region": "in",
+      "reward_url": null
+    },
+    {
+      "id": 5963,
+      "title": "ROG Elite Mug ",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7e358831-ce79-43be-96e4-02d2ab00f91f/",
       "region": "in",
       "reward_url": null
     },
