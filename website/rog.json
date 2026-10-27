@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T12:11:18.093212+00:00",
-  "count": 638,
+  "updated": "2026-10-27T14:34:27.985965+00:00",
+  "count": 635,
   "items": [
     {
       "id": 2676,
@@ -5433,26 +5433,6 @@
       "reward_url": null
     },
     {
-      "id": 5899,
-      "title": "Металевий брелок-карабін ROG",
-      "status": 3,
-      "cost": 500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9f3be8c8-a877-4a93-a7fb-d61dc4ec82e4/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5900,
-      "title": "Розумний термос ROG з LED-дисплеєм",
-      "status": 3,
-      "cost": 1200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/2bc537ca-339a-4515-9820-59e2aace67ae/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
       "id": 5901,
       "title": "Вітрівка ROG (світловідбивний елемент)",
       "status": 1,
@@ -5469,16 +5449,6 @@
       "cost": 800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/27207ba2-f4de-4c57-8a8a-4771ef847b39/",
-      "region": "ua-ua",
-      "reward_url": null
-    },
-    {
-      "id": 5924,
-      "title": "Футболка оверсайз ROG",
-      "status": 3,
-      "cost": 1000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5bdc8d4d-60ed-4b32-8e54-7ad20804797c/",
       "region": "ua-ua",
       "reward_url": null
     },
