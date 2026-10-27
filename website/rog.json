@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T07:25:11.812924+00:00",
-  "count": 637,
+  "updated": "2026-10-27T10:43:25.273913+00:00",
+  "count": 638,
   "items": [
     {
       "id": 2676,
@@ -1059,6 +1059,16 @@
       "cost": 2400,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/6029f8e2-7699-4f65-8ab7-8885157a1918/",
+      "region": "eg-en",
+      "reward_url": null
+    },
+    {
+      "id": 5997,
+      "title": "Escape from Playtime game code",
+      "status": 1,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/bf0d52ee-5585-4857-8eec-8b15680353cf/",
       "region": "eg-en",
       "reward_url": null
     },
