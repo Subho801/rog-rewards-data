@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T08:55:47.921742+00:00",
-  "count": 623,
+  "updated": "2026-10-29T15:01:39.742881+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -3429,6 +3429,16 @@
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/6f9fb403-456c-4779-bc64-afeee3317604/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 6005,
+      "title": "Valor Mortis",
+      "status": 1,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fbdeb7ea-4141-462a-8232-4b244e47689e/",
       "region": "pl",
       "reward_url": null
     },
