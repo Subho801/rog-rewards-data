@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T14:41:48.699157+00:00",
-  "count": 634,
+  "updated": "2026-10-29T02:09:32.272667+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -5649,56 +5649,6 @@
       "cost": 600,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3b061b42-1b6b-499f-88bd-34019fed9d86/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5624,
-      "title": "5 USD Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/f9a9631e-b883-4532-bb8a-6b25ec33743e/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5625,
-      "title": "5 USD Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9a6dd8b4-617e-432c-bbc0-8b0858e348b4/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5626,
-      "title": "10 USD Global Gift Card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/336f418c-a6e1-40df-ab78-8d5354ac9b22/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5627,
-      "title": "10 USD Global Gift Card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1e38f711-abf1-4612-a6f7-148a3d608eaa/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5628,
-      "title": "10 USD Global Gift Card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/236b7b3e-c1ed-4125-9490-8c219207d089/",
       "region": "us",
       "reward_url": null
     },
