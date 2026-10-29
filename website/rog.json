@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T02:10:00.797029+00:00",
-  "count": 626,
+  "updated": "2026-10-29T02:11:35.469351+00:00",
+  "count": 625,
   "items": [
     {
       "id": 2676,
@@ -5529,16 +5529,6 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/8cb3531f-c580-45eb-8108-72aedf41f5c8/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 2841,
-      "title": "Amazon Gift Card ($5)",
-      "status": 3,
-      "cost": 1750,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/00e82d4c-14e2-42bf-96fd-9ff8ebe2dd16/",
       "region": "us",
       "reward_url": null
     },
