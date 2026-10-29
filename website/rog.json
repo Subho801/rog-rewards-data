@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T19:19:31.924426+00:00",
-  "count": 625,
+  "updated": "2026-10-29T19:38:44.532674+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -5699,6 +5699,16 @@
       "cost": 500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/c3e9693c-3360-480b-8593-6eeaf98d7753/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 6007,
+      "title": "Fandango Gift Card ($25)",
+      "status": 1,
+      "cost": 2000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a079a0c5-879f-48f2-bbda-49c6cc3314e0/",
       "region": "us",
       "reward_url": null
     },
