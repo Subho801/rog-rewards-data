@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T02:11:35.469351+00:00",
-  "count": 625,
+  "updated": "2026-10-29T02:12:04.871429+00:00",
+  "count": 623,
   "items": [
     {
       "id": 2676,
@@ -5499,26 +5499,6 @@
       "cost": 750,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4465a4f7-07b1-445a-b96a-0bf0b4470cf9/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 1328,
-      "title": "Amazon Gift Card ($10)",
-      "status": 3,
-      "cost": 3500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/8e504c6b-2a74-454c-8693-e44c68e37c50/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 1329,
-      "title": "Best Buy Gift Card ($10)",
-      "status": 3,
-      "cost": 3500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/fc9f7cc5-b627-45aa-9c9a-ba408559e83a/",
       "region": "us",
       "reward_url": null
     },
