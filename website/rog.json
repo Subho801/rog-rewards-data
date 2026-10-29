@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T02:09:32.272667+00:00",
-  "count": 629,
+  "updated": "2026-10-29T02:10:00.797029+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -5613,42 +5613,12 @@
       "reward_url": null
     },
     {
-      "id": 5568,
-      "title": "10 USD Global Gift Card",
-      "status": 3,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0c203b4f-c7ca-4f27-aa7c-650d5cdffd7d/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5572,
-      "title": "5 USD Global Gift Card",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/fafc00a7-e6c9-4e89-8648-89b96fcd7542/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
       "id": 5615,
       "title": "ROG 20th Edition Keycap",
       "status": 3,
       "cost": 1000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/565f0e80-f155-4173-9145-a02c7b8f6f1b/",
-      "region": "us",
-      "reward_url": null
-    },
-    {
-      "id": 5622,
-      "title": "5 USD Global Gift Card ",
-      "status": 3,
-      "cost": 600,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/3b061b42-1b6b-499f-88bd-34019fed9d86/",
       "region": "us",
       "reward_url": null
     },
