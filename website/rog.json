@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T07:06:02.239396+00:00",
-  "count": 623,
+  "updated": "2026-10-29T08:53:40.114555+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -3589,6 +3589,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/d1a6c638-8598-49bb-8854-79235bed4039/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6006,
+      "title": "ASUS Kahoot Halloween 2026 - 1313 Puncte",
+      "status": 1,
+      "cost": 1313,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f6ec40e7-d046-45cf-a3b5-de4e4f8b6a72/",
       "region": "ro",
       "reward_url": null
     },
