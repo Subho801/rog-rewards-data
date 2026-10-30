@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T10:35:58.514109+00:00",
-  "count": 627,
+  "updated": "2026-10-30T10:41:59.003429+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -3609,6 +3609,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/7cd73d6e-03b4-44a2-8ecf-65f6f2fcd145/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6011,
+      "title": "Sticla apa ROG Elite - Dracula Fantasy Con",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/75054cf4-8b69-4e05-95dc-f9bd728b2794/",
       "region": "ro",
       "reward_url": null
     },
