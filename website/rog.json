@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T03:05:44.775780+00:00",
-  "count": 627,
+  "updated": "2026-11-05T08:41:24.560671+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -3599,6 +3599,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/75054cf4-8b69-4e05-95dc-f9bd728b2794/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6018,
+      "title": "Mouse pad ROG Elite",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/620d9265-8363-4435-b2e1-dd18d1079b51/",
       "region": "ro",
       "reward_url": null
     },
