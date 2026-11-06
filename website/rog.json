@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T10:59:26.642339+00:00",
-  "count": 626,
+  "updated": "2026-11-06T17:40:14.714095+00:00",
+  "count": 628,
   "items": [
     {
       "id": 2676,
@@ -109,6 +109,26 @@
       "cost": 900,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/8341acf7-cf0d-41f9-8c61-aa2cf7dbd814/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 6020,
+      "title": "ROG 20th Anniversary Figurines",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ac81458b-2dd6-42f7-b4db-28f990205262/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 6021,
+      "title": "$25 CAD Valorant Gift Card",
+      "status": 1,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c8f3d1e6-0445-407b-8234-59eacda7c4f4/",
       "region": "ca-en",
       "reward_url": null
     },
