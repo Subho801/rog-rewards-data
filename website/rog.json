@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T08:06:12.831010+00:00",
-  "count": 628,
+  "updated": "2026-11-09T10:11:59.131321+00:00",
+  "count": 629,
   "items": [
     {
       "id": 2676,
@@ -1319,6 +1319,16 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/cfe787b7-7eef-431b-9fd1-18c08c3defc3/",
+      "region": "global",
+      "reward_url": null
+    },
+    {
+      "id": 6025,
+      "title": "(Announcement only) October Elite sweepstakes winner",
+      "status": 1,
+      "cost": 0,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c69c1ef2-9234-48e2-9a74-de85004eb0c1/",
       "region": "global",
       "reward_url": null
     },
