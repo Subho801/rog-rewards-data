@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T10:11:59.131321+00:00",
-  "count": 629,
+  "updated": "2026-11-09T16:01:57.302063+00:00",
+  "count": 630,
   "items": [
     {
       "id": 2676,
@@ -3459,6 +3459,16 @@
       "cost": 2500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/39e49b66-7f70-46ca-ba0c-949a1b7bee40/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 6026,
+      "title": "Indiana Jones i Wielki Krąg",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/36de9a1e-f3cf-4bc3-a9e5-50eb8d40b29c/",
       "region": "pl",
       "reward_url": null
     },
