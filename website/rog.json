@@ -1,137 +1,7 @@
 {
-  "updated": "2026-11-10T12:57:36.874682+00:00",
-  "count": 610,
+  "updated": "2026-11-10T12:58:06.447570+00:00",
+  "count": 618,
   "items": [
-    {
-      "id": 2676,
-      "title": "$50 Off Select ROG Products @ the ASUS Store",
-      "status": 1,
-      "cost": 2000,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/00ae1c60-6ae8-423d-9e37-19b7ed50447e/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5418,
-      "title": "Enjoy 5% off Games & Gift Cards at Eneba",
-      "status": 1,
-      "cost": 50,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/e49cb54c-608d-4cf9-b4ae-7ae2c39c1d5a/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5779,
-      "title": "Pumpkin Jack Game Code",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/eb4d8bf4-df71-47b4-adc4-7d7a280ba5b1/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5859,
-      "title": "Fallout 4 ",
-      "status": 4,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/6ae22f5f-06f3-43e0-ac51-0abcac8e3b51/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5860,
-      "title": "Gori: Cuddly Carnage",
-      "status": 1,
-      "cost": 650,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/decb0a6a-082e-4ca2-8641-fb26fbba636a/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5896,
-      "title": "$15 CAD Twitch gift card ",
-      "status": 1,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/1a62e5cc-b7e3-4739-9736-ac5f1bba3a56/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5958,
-      "title": "$10 CAD Boston Pizza Gift Card",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/935052a8-c5cb-4a29-a983-dc8204d38389/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5959,
-      "title": "$10 CAD Columbia Sportswear Gift Card",
-      "status": 1,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9be9525f-356d-4f2e-a457-6156afb804f0/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5993,
-      "title": "20th Anniversary ROG Pillows",
-      "status": 3,
-      "cost": 1800,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c11bf200-92f0-4038-88a4-bc1b098a8151/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 5999,
-      "title": "$10 CAD Uber Eats Gift Card",
-      "status": 1,
-      "cost": 1200,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5e60d44d-78d1-47bb-a594-b34e9f128a57/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 6001,
-      "title": "$10 CAD Uber Eats Gift Card",
-      "status": 1,
-      "cost": 900,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/8341acf7-cf0d-41f9-8c61-aa2cf7dbd814/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 6020,
-      "title": "ROG 20th Anniversary Figurines",
-      "status": 1,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/ac81458b-2dd6-42f7-b4db-28f990205262/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 6021,
-      "title": "$25 CAD Valorant Gift Card",
-      "status": 3,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c8f3d1e6-0445-407b-8234-59eacda7c4f4/",
-      "region": "ca-en",
-      "reward_url": null
-    },
     {
       "id": 1503,
       "title": "ROG příruční kufr",
@@ -5550,6 +5420,216 @@
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/0556f574-a70d-432b-a60e-0e7c062830fb/",
       "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 690,
+      "title": "Fanfit $10 Off Coupons",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4465a4f7-07b1-445a-b96a-0bf0b4470cf9/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2542,
+      "title": "Uber Eats Gift Card ($25)",
+      "status": 3,
+      "cost": 2000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3ce60c41-446d-48f5-8cc2-9b7439c8d831/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2723,
+      "title": "World of Warships In-Game Code",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8cb3531f-c580-45eb-8108-72aedf41f5c8/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2842,
+      "title": "Best Buy Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/b0b0d6f6-c90b-48ea-9276-fa8f84223ab1/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 2868,
+      "title": "$25 Off ASUS WiFi 7 Devices!",
+      "status": 3,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e177656c-1935-4344-b6c2-9bc814f72b4d/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5035,
+      "title": "Walmart Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7d97c3e4-b528-4d01-af2c-d69ded89f18b/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5036,
+      "title": "Target Gift Card ($5)",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c1d1ca84-d1b7-4732-8541-4aa429ae7123/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5037,
+      "title": "Xbox Game Pass Ultimate (1-month)",
+      "status": 3,
+      "cost": 3500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/7793276c-3cc6-44d6-8481-1bd53f0c01c0/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5276,
+      "title": "Predecessor",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8aa7b156-141e-496e-a510-ce681d35792c/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5335,
+      "title": "DoorDash Gift Card ($15) ",
+      "status": 3,
+      "cost": 4000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/146a1f1f-d79e-4be9-bcd2-ad9ef8be1a05/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5615,
+      "title": "ROG 20th Edition Keycap",
+      "status": 3,
+      "cost": 1000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/565f0e80-f155-4173-9145-a02c7b8f6f1b/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5768,
+      "title": "Starfield",
+      "status": 3,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/21c055e6-26da-48d6-9c73-afceda4d1416/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5769,
+      "title": "Pumpkin Jack",
+      "status": 3,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ebf5b36b-bbfa-4e54-9221-d66b46dcc678/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5770,
+      "title": "Knock'em Out",
+      "status": 3,
+      "cost": 300,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e7588886-6a09-469b-8ea4-31ede9053fee/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5858,
+      "title": "Starbucks Gift Card",
+      "status": 3,
+      "cost": 1750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a89d45ec-00f8-4361-9e7d-0c344093041a/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5898,
+      "title": "$20 Twitch Gift Card",
+      "status": 2,
+      "cost": 2400,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6d24b9a4-a0fc-4e5e-8122-d49667485f5f/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5916,
+      "title": "Fallout 4",
+      "status": 3,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/49949989-ef90-43b8-9896-be79e1bfc7b5/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5918,
+      "title": "Gori: Cuddly Carnage",
+      "status": 3,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/09d4cc5f-7406-4a27-bfca-cd0226917158/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5953,
+      "title": "Vampire Crawlers",
+      "status": 3,
+      "cost": 1000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/59daca06-7f9c-46c6-a700-14ede4e3bf52/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 5995,
+      "title": "ROG 20th OMNI Trading Card Pack",
+      "status": 1,
+      "cost": 500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c3e9693c-3360-480b-8593-6eeaf98d7753/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 6007,
+      "title": "Fandango Gift Card ($25)",
+      "status": 3,
+      "cost": 2000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a079a0c5-879f-48f2-bbda-49c6cc3314e0/",
+      "region": "us",
       "reward_url": null
     },
     {
