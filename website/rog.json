@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T13:17:43.562515+00:00",
-  "count": 627,
+  "updated": "2026-11-11T13:19:34.893813+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -6259,16 +6259,6 @@
       "cost": 650,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/3933def2-eb1a-49b3-886b-72b39f1d5182/",
-      "region": "za",
-      "reward_url": null
-    },
-    {
-      "id": 6051,
-      "title": "rAge Nation 2026 Ticket Giveaway",
-      "status": 1,
-      "cost": 0,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/af8d0e7a-8fd4-4506-8d6c-d25b9d6e01e0/",
       "region": "za",
       "reward_url": null
     }
