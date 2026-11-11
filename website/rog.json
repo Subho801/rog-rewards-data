@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T06:29:29.071085+00:00",
-  "count": 628,
+  "updated": "2026-11-11T12:02:05.567453+00:00",
+  "count": 626,
   "items": [
     {
       "id": 2676,
@@ -5473,16 +5473,6 @@
       "reward_url": null
     },
     {
-      "id": 5142,
-      "title": "Sniper Elite: Resistance",
-      "status": 4,
-      "cost": 1500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/cc3e7ef5-8d90-4524-9c85-0c7b5f967d3a/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
       "id": 5745,
       "title": "Pumpkin Jack",
       "status": 1,
@@ -5509,16 +5499,6 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
-      "region": "uk",
-      "reward_url": null
-    },
-    {
-      "id": 5915,
-      "title": "Vampire Crawlers",
-      "status": 3,
-      "cost": 500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/0556f574-a70d-432b-a60e-0e7c062830fb/",
       "region": "uk",
       "reward_url": null
     },
