@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T12:05:55.364973+00:00",
-  "count": 625,
+  "updated": "2026-11-13T13:45:13.756376+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -3209,16 +3209,6 @@
       "cost": 600,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/b11fcff7-9963-456d-8fbd-888caabf244e/",
-      "region": "pl",
-      "reward_url": null
-    },
-    {
-      "id": 5402,
-      "title": "Resident Evil Requiem",
-      "status": 3,
-      "cost": 2500,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d6c8cdea-f788-49cc-9890-673286c44c80/",
       "region": "pl",
       "reward_url": null
     },
