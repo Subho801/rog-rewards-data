@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T10:01:00.847046+00:00",
-  "count": 624,
+  "updated": "2026-11-13T11:00:06.597042+00:00",
+  "count": 625,
   "items": [
     {
       "id": 2676,
@@ -3469,6 +3469,16 @@
       "cost": 2000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/7b737844-772b-4c9c-9cfc-2bfbd97f3fa2/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 6019,
+      "title": "EA Sports FC 27",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/43bfe474-dd2d-4be1-bb3b-cfbd01c88941/",
       "region": "pl",
       "reward_url": null
     },
