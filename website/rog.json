@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T09:59:40.714657+00:00",
-  "count": 625,
+  "updated": "2026-11-13T10:01:00.847046+00:00",
+  "count": 624,
   "items": [
     {
       "id": 2676,
@@ -3499,16 +3499,6 @@
       "cost": 6000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/e3a192fd-fe65-43e1-a2b3-dda769ab4886/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5006,
-      "title": "Rucsac ROG BP1501G",
-      "status": 3,
-      "cost": 4000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/5573d06e-5064-4cec-abba-657c7868a735/",
       "region": "ro",
       "reward_url": null
     },
