@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T11:10:27.879412+00:00",
-  "count": 655,
+  "updated": "2026-11-17T11:10:34.233557+00:00",
+  "count": 656,
   "items": [
     {
       "id": 2676,
@@ -3749,6 +3749,16 @@
       "cost": 3499,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/d8d5c06b-2a90-45ce-baef-1d89fbae2392/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5998,
+      "title": "Tricou ROG 20Y",
+      "status": 3,
+      "cost": 1300,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1b0bbb45-fb09-4413-a5b6-4edc38661eed/",
       "region": "ro",
       "reward_url": null
     },
