@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T14:01:41.550782+00:00",
-  "count": 661,
+  "updated": "2026-11-17T14:01:41.591208+00:00",
+  "count": 663,
   "items": [
     {
       "id": 2676,
@@ -4509,6 +4509,26 @@
       "cost": 2100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/ee3d6d12-c497-434b-9a35-0dced6ee436e/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 6033,
+      "title": "Art of Rally",
+      "status": 3,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/bba75637-ca23-46ef-9916-29e9a46d641b/",
+      "region": "sa-ar",
+      "reward_url": null
+    },
+    {
+      "id": 6034,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/df822403-8d47-45ab-bdfa-981a70f7f99d/",
       "region": "sa-ar",
       "reward_url": null
     },
