@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T23:00:56.345301+00:00",
-  "count": 683,
+  "updated": "2026-11-17T23:36:20.894015+00:00",
+  "count": 684,
   "items": [
     {
       "id": 2676,
@@ -6209,6 +6209,16 @@
       "cost": 2000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/a079a0c5-879f-48f2-bbda-49c6cc3314e0/",
+      "region": "us",
+      "reward_url": null
+    },
+    {
+      "id": 8085,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 1,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/efa4fddb-2ab2-4cd3-9530-b11d4c0ec89f/",
       "region": "us",
       "reward_url": null
     },
