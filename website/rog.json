@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T09:04:29.310386+00:00",
-  "count": 651,
+  "updated": "2026-11-17T09:33:23.135727+00:00",
+  "count": 652,
   "items": [
     {
       "id": 2676,
@@ -5669,6 +5669,16 @@
       "cost": 2100,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/c0176608-0ece-47cd-a3db-747c5b5ee008/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 8092,
+      "title": "Розумний термос ROG з LED-дисплеєм (білий)",
+      "status": 1,
+      "cost": 1200,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/599d95f1-242f-4f21-aab9-af0321c459e2/",
       "region": "ua-ua",
       "reward_url": null
     },
