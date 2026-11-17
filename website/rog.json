@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T16:03:39.095215+00:00",
-  "count": 677,
+  "updated": "2026-11-17T17:01:26.735116+00:00",
+  "count": 679,
   "items": [
     {
       "id": 2676,
@@ -5939,6 +5939,26 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 8082,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c1eed8ac-e98c-434d-93e3-4b820e91d455/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 8083,
+      "title": "Art of Rally",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f1e8f804-22a9-4133-9190-e05fb7c9b6c7/",
       "region": "uk",
       "reward_url": null
     },
