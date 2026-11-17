@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T09:41:28.464666+00:00",
-  "count": 653,
+  "updated": "2026-11-17T09:43:27.379171+00:00",
+  "count": 654,
   "items": [
     {
       "id": 2676,
@@ -5689,6 +5689,16 @@
       "cost": 800,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/20e18e76-8b41-4ab7-9f21-f49a8cd43189/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 8094,
+      "title": "Стікер пак ROG ",
+      "status": 1,
+      "cost": 400,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a8bdcc26-8dc4-4a98-a645-b0b026facb82/",
       "region": "ua-ua",
       "reward_url": null
     },
