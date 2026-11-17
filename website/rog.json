@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T07:14:19.225196+00:00",
-  "count": 632,
+  "updated": "2026-11-17T09:01:36.626446+00:00",
+  "count": 644,
   "items": [
     {
       "id": 2676,
@@ -1289,6 +1289,36 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4a702e52-1ae3-40f4-989f-25f2b86ed8a2/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
+      "id": 6072,
+      "title": "Indiana Jones et le Cercle Ancien",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/86ea20e1-0af1-4d02-bee9-eaf60068a1df/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
+      "id": 6073,
+      "title": "art of rally",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/16a47f7d-4ed4-4b75-bcac-9a4614d01b33/",
+      "region": "fr",
+      "reward_url": null
+    },
+    {
+      "id": 6074,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/abe04fb5-5a82-45e9-b078-cb622c9eb278/",
       "region": "fr",
       "reward_url": null
     },
@@ -3163,6 +3193,36 @@
       "reward_url": null
     },
     {
+      "id": 6053,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e2cd801e-def3-4742-a76d-03b1ae0a32bf/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
+      "id": 6054,
+      "title": "Art of Rally",
+      "status": 4,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6df483c7-04f6-44c3-89af-9f79bb38ad81/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
+      "id": 6055,
+      "title": "Copycat",
+      "status": 4,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/aa1ca2aa-8ffc-4dd4-8e60-fa64a5e43365/",
+      "region": "ph",
+      "reward_url": null
+    },
+    {
       "id": 4879,
       "title": "Karta podarunkowa GoGift o wartości 10 USD",
       "status": 3,
@@ -4709,6 +4769,36 @@
       "cost": 650,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/2945d353-6653-46ce-b954-4938297afca7/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 8088,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e432fc7d-ff98-4eaf-9c08-e1fc1a7a7c9d/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 8089,
+      "title": "Art of Rally",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/2ba9ea67-3a5a-435a-98de-4d2e37caa655/",
+      "region": "sg",
+      "reward_url": null
+    },
+    {
+      "id": 8090,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/e2607d1e-8746-4bb5-97f7-7092d56c325b/",
       "region": "sg",
       "reward_url": null
     },
@@ -6309,6 +6399,36 @@
       "cost": 650,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/3933def2-eb1a-49b3-886b-72b39f1d5182/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 6038,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/6b370beb-df6e-44e8-9573-673a94066994/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 6039,
+      "title": "Art of Rally",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ffb3b440-64da-46ae-81e8-b175a480cd24/",
+      "region": "za",
+      "reward_url": null
+    },
+    {
+      "id": 6040,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4a511d7d-432c-4dbd-80f8-600668d06a00/",
       "region": "za",
       "reward_url": null
     },
