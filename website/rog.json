@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T08:46:48.743544+00:00",
-  "count": 690,
+  "updated": "2026-11-18T08:49:01.937514+00:00",
+  "count": 691,
   "items": [
     {
       "id": 2676,
@@ -5469,6 +5469,16 @@
       "cost": 750,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/ce4d1f31-89b6-478b-8fc2-d3eb34afddac/",
+      "region": "sk",
+      "reward_url": null
+    },
+    {
+      "id": 8100,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 600,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/710a53e0-2d6f-43d2-b0ff-b9732fd44a94/",
       "region": "sk",
       "reward_url": null
     },
