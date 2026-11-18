@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T12:01:23.769239+00:00",
-  "count": 694,
+  "updated": "2026-11-18T14:49:35.679033+00:00",
+  "count": 693,
   "items": [
     {
       "id": 2676,
@@ -119,16 +119,6 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ac81458b-2dd6-42f7-b4db-28f990205262/",
-      "region": "ca-en",
-      "reward_url": null
-    },
-    {
-      "id": 6021,
-      "title": "$25 CAD Valorant Gift Card",
-      "status": 3,
-      "cost": 1800,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/c8f3d1e6-0445-407b-8234-59eacda7c4f4/",
       "region": "ca-en",
       "reward_url": null
     },
