@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T03:30:03.133005+00:00",
-  "count": 680,
+  "updated": "2026-11-18T03:30:14.942829+00:00",
+  "count": 685,
   "items": [
     {
       "id": 2676,
@@ -5950,6 +5950,56 @@
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a8bdcc26-8dc4-4a98-a645-b0b026facb82/",
       "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 5745,
+      "title": "Pumpkin Jack",
+      "status": 1,
+      "cost": 900,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/162602c1-18ac-4484-9492-0a69a5bc2203/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5847,
+      "title": "Fallout 4",
+      "status": 4,
+      "cost": 1800,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/27f6c3a0-d47a-4ace-a96a-6a9478b4f7d1/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 5848,
+      "title": "Gori: Cuddly Carnage",
+      "status": 1,
+      "cost": 650,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3d4eff99-ab45-4d56-833e-9556243c53d2/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 8082,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c1eed8ac-e98c-434d-93e3-4b820e91d455/",
+      "region": "uk",
+      "reward_url": null
+    },
+    {
+      "id": 8083,
+      "title": "Art of Rally",
+      "status": 1,
+      "cost": 750,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/f1e8f804-22a9-4133-9190-e05fb7c9b6c7/",
+      "region": "uk",
       "reward_url": null
     },
     {
