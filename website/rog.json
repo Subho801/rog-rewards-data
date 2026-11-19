@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T05:39:08.270912+00:00",
-  "count": 695,
+  "updated": "2026-11-19T08:46:50.312575+00:00",
+  "count": 696,
   "items": [
     {
       "id": 2676,
@@ -409,6 +409,16 @@
       "cost": 1700,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/2454eb80-8a30-4660-80a4-b8d475ed723e/",
+      "region": "cz",
+      "reward_url": null
+    },
+    {
+      "id": 5874,
+      "title": "ROG 20. výročí sponky",
+      "status": 1,
+      "cost": 600,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3fc690b6-e02a-4aa3-9125-74fde5e867b8/",
       "region": "cz",
       "reward_url": null
     },
