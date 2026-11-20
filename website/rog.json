@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T14:08:36.168294+00:00",
-  "count": 695,
+  "updated": "2026-11-20T20:03:13.771240+00:00",
+  "count": 694,
   "items": [
     {
       "id": 2676,
@@ -3909,16 +3909,6 @@
       "cost": 3990,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/29d7d83e-69db-4e9a-b4b1-654054090849/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 5992,
-      "title": "Abonament Acces BGW 2026",
-      "status": 1,
-      "cost": 3499,
-      "type": 2,
-      "image": "https://dlcdnwebimgs.asus.com/gain/d8d5c06b-2a90-45ce-baef-1d89fbae2392/",
       "region": "ro",
       "reward_url": null
     },
