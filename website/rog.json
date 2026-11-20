@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T15:41:05.240861+00:00",
-  "count": 696,
+  "updated": "2026-11-20T06:01:24.466540+00:00",
+  "count": 695,
   "items": [
     {
       "id": 2676,
@@ -2679,16 +2679,6 @@
       "cost": 500,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/25f2f5c4-a5d0-4b19-802f-27325630cdcc/",
-      "region": "mx",
-      "reward_url": null
-    },
-    {
-      "id": 5692,
-      "title": "Jersey ROG 20 Aniversario",
-      "status": 10,
-      "cost": 1200,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/2e1962b1-1d4b-44c1-8355-b02250b24704/",
       "region": "mx",
       "reward_url": null
     },
