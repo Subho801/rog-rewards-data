@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T07:46:45.985403+00:00",
-  "count": 699,
+  "updated": "2026-11-21T07:49:51.284259+00:00",
+  "count": 700,
   "items": [
     {
       "id": 2676,
@@ -4009,6 +4009,16 @@
       "cost": 2000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/138ed777-2bb0-40e8-8649-200c47c36041/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8116,
+      "title": "Tricou ROG Elite - BGW 2026",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/60b628c9-d9ab-41ba-9a5e-31ade737416c/",
       "region": "ro",
       "reward_url": null
     },
