@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T07:27:17.621129+00:00",
-  "count": 698,
+  "updated": "2026-11-21T07:46:45.985403+00:00",
+  "count": 699,
   "items": [
     {
       "id": 2676,
@@ -3999,6 +3999,16 @@
       "cost": 2000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/3cb1c1e1-93e1-4a81-8453-2f4802548fa7/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8115,
+      "title": "ROG Special Bundle - BGW2026",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/138ed777-2bb0-40e8-8649-200c47c36041/",
       "region": "ro",
       "reward_url": null
     },
