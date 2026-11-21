@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T07:22:21.107450+00:00",
-  "count": 697,
+  "updated": "2026-11-21T07:27:17.621129+00:00",
+  "count": 698,
   "items": [
     {
       "id": 2676,
@@ -3989,6 +3989,16 @@
       "cost": 2500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a144394e-d78c-460f-8302-4a5d67531ccb/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8114,
+      "title": "Mousepad ROG Elite - BGW26",
+      "status": 1,
+      "cost": 2000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/3cb1c1e1-93e1-4a81-8453-2f4802548fa7/",
       "region": "ro",
       "reward_url": null
     },
