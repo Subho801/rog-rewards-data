@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T07:17:54.970868+00:00",
-  "count": 696,
+  "updated": "2026-11-21T07:22:21.107450+00:00",
+  "count": 697,
   "items": [
     {
       "id": 2676,
@@ -3979,6 +3979,16 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/4ed77b13-cd06-452a-b1e7-23cc46782264/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8113,
+      "title": "Minge Fotbal ROG 20Y - BGW 26",
+      "status": 1,
+      "cost": 2500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a144394e-d78c-460f-8302-4a5d67531ccb/",
       "region": "ro",
       "reward_url": null
     },
