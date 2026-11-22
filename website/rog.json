@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T14:03:52.968214+00:00",
-  "count": 700,
+  "updated": "2026-11-22T18:01:18.353676+00:00",
+  "count": 694,
   "items": [
     {
       "id": 2676,
@@ -3959,66 +3959,6 @@
       "cost": 2000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d6e3db9-3942-4682-98c4-9989ffa25ea4/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8111,
-      "title": "Cana ROG Elite - BGW2026",
-      "status": 3,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/949405b5-cb41-42d9-b494-7c76956e7e0f/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8112,
-      "title": "Sticla apa ROG Elite - BGW 2026",
-      "status": 1,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/4ed77b13-cd06-452a-b1e7-23cc46782264/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8113,
-      "title": "Minge Fotbal ROG 20Y - BGW 26",
-      "status": 1,
-      "cost": 2500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/a144394e-d78c-460f-8302-4a5d67531ccb/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8114,
-      "title": "Mousepad ROG Elite - BGW26",
-      "status": 1,
-      "cost": 2000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/3cb1c1e1-93e1-4a81-8453-2f4802548fa7/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8115,
-      "title": "ROG Special Bundle - BGW2026",
-      "status": 1,
-      "cost": 2000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/138ed777-2bb0-40e8-8649-200c47c36041/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
-      "id": 8116,
-      "title": "Tricou ROG Elite - BGW 2026",
-      "status": 1,
-      "cost": 1500,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/60b628c9-d9ab-41ba-9a5e-31ade737416c/",
       "region": "ro",
       "reward_url": null
     },
