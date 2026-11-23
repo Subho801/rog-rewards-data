@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T15:21:07.136010+00:00",
-  "count": 694,
+  "updated": "2026-11-23T15:21:15.322702+00:00",
+  "count": 695,
   "items": [
     {
       "id": 2676,
@@ -6039,6 +6039,16 @@
       "cost": 400,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/a8bdcc26-8dc4-4a98-a645-b0b026facb82/",
+      "region": "ua-ua",
+      "reward_url": null
+    },
+    {
+      "id": 8117,
+      "title": "Худі на застібці ROG",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/fa9cc29f-058b-4e24-b70b-d44cdae35863/",
       "region": "ua-ua",
       "reward_url": null
     },
