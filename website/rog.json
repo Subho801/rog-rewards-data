@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T15:33:40.496098+00:00",
-  "count": 693,
+  "updated": "2026-11-24T15:37:43.197540+00:00",
+  "count": 694,
   "items": [
     {
       "id": 2676,
@@ -3879,6 +3879,16 @@
       "cost": 3990,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/29d7d83e-69db-4e9a-b4b1-654054090849/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 6003,
+      "title": "Sticla de apa ROG Elite",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/ccfd2cc0-51f8-4ba8-8ac0-df27bdb05092/",
       "region": "ro",
       "reward_url": null
     },
