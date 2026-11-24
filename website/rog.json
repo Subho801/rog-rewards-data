@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:51:54.944906+00:00",
-  "count": 692,
+  "updated": "2026-11-24T08:52:12.108467+00:00",
+  "count": 693,
   "items": [
     {
       "id": 2676,
@@ -3849,6 +3849,16 @@
       "cost": 6000,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/e3a192fd-fe65-43e1-a2b3-dda769ab4886/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 5173,
+      "title": "Figurina ROG OMNI Alb",
+      "status": 1,
+      "cost": 6000,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4b604240-e750-4a30-8420-d01388c5ec93/",
       "region": "ro",
       "reward_url": null
     },
