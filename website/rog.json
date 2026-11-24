@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T09:30:56.307714+00:00",
-  "count": 694,
+  "updated": "2026-11-24T10:41:26.521709+00:00",
+  "count": 695,
   "items": [
     {
       "id": 2676,
@@ -3979,6 +3979,16 @@
       "cost": 3980,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/296bb197-b109-418d-99b7-d956ac44f686/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8122,
+      "title": "Perna  ROG 20th Anniversary ",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/5b385a42-7610-48ec-90fa-c1e2c8cdd105/",
       "region": "ro",
       "reward_url": null
     },
