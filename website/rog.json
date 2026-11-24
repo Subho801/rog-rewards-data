@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:52:22.549394+00:00",
-  "count": 692,
+  "updated": "2026-11-24T08:59:32.527677+00:00",
+  "count": 693,
   "items": [
     {
       "id": 2676,
@@ -3959,6 +3959,16 @@
       "cost": 3500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/77976765-fab2-4963-9663-783f0e04838f/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8120,
+      "title": "Tricou ROG Elite",
+      "status": 1,
+      "cost": 1500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/8e6f224f-754c-4f64-9d9f-a5950204f47d/",
       "region": "ro",
       "reward_url": null
     },
