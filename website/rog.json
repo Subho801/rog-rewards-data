@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T15:37:43.197540+00:00",
-  "count": 694,
+  "updated": "2026-11-24T17:01:57.156008+00:00",
+  "count": 698,
   "items": [
     {
       "id": 2676,
@@ -119,6 +119,46 @@
       "cost": 1500,
       "type": 3,
       "image": "https://dlcdnwebimgs.asus.com/gain/ac81458b-2dd6-42f7-b4db-28f990205262/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 8101,
+      "title": "Indiana Jones and the Great Circle",
+      "status": 4,
+      "cost": 1500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1b8f6979-9f0a-4d93-80a6-e7e405d85bcf/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 8102,
+      "title": "Art of Rally",
+      "status": 1,
+      "cost": 1000,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/830baace-4ecc-49ae-9df1-d4a2c3fbd1cd/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 8103,
+      "title": "Copycat",
+      "status": 1,
+      "cost": 500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/d60978ad-504a-481d-a66f-76fdb8a35929/",
+      "region": "ca-en",
+      "reward_url": null
+    },
+    {
+      "id": 8104,
+      "title": "ROG Pillows-20th Anniversary Edition",
+      "status": 1,
+      "cost": 1800,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1676c92b-e21d-4384-8a67-438380df79c3/",
       "region": "ca-en",
       "reward_url": null
     },
