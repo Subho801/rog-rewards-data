@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:54:44.494158+00:00",
+  "updated": "2026-11-24T08:49:11.743487+00:00",
   "count": 692,
   "items": [
     {
@@ -3863,16 +3863,6 @@
       "reward_url": null
     },
     {
-      "id": 5175,
-      "title": "Figurina ROG OMNI OG",
-      "status": 1,
-      "cost": 6000,
-      "type": 3,
-      "image": "https://dlcdnwebimgs.asus.com/gain/9753e0ae-bc20-41c8-a231-99d6ea5e874f/",
-      "region": "ro",
-      "reward_url": null
-    },
-    {
       "id": 5182,
       "title": "Monster Hunter Wilds",
       "status": 3,
@@ -3959,6 +3949,16 @@
       "cost": 2000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/4d6e3db9-3942-4682-98c4-9989ffa25ea4/",
+      "region": "ro",
+      "reward_url": null
+    },
+    {
+      "id": 8118,
+      "title": "Figurina ROG OMNI",
+      "status": 1,
+      "cost": 3500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/cbbdf63a-be56-4dee-8e12-de33dd876fb8/",
       "region": "ro",
       "reward_url": null
     },
