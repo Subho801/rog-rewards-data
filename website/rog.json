@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T12:00:16.304482+00:00",
-  "count": 699,
+  "updated": "2026-11-26T15:01:03.767019+00:00",
+  "count": 701,
   "items": [
     {
       "id": 2676,
@@ -3523,6 +3523,16 @@
       "reward_url": null
     },
     {
+      "id": 5237,
+      "title": "Battlefield 6",
+      "status": 1,
+      "cost": 2100,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4c368e8c-7cf4-4402-a0d0-6acce7cdcb76/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
       "id": 5242,
       "title": "The Outer Worlds 2",
       "status": 1,
@@ -3859,6 +3869,16 @@
       "cost": 1000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/f216c874-2547-4d81-bf9a-11ebc5c6eeab/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 8109,
+      "title": "Call of Duty: Modern Warfare 4",
+      "status": 1,
+      "cost": 2500,
+      "type": 2,
+      "image": "https://dlcdnwebimgs.asus.com/gain/a7bc2ae0-d5c2-4d43-9d37-d6435e97e0ff/",
       "region": "pl",
       "reward_url": null
     },
