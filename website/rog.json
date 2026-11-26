@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T09:24:04.860270+00:00",
-  "count": 698,
+  "updated": "2026-11-26T12:00:16.304482+00:00",
+  "count": 699,
   "items": [
     {
       "id": 2676,
@@ -3859,6 +3859,16 @@
       "cost": 1000,
       "type": 2,
       "image": "https://dlcdnwebimgs.asus.com/gain/f216c874-2547-4d81-bf9a-11ebc5c6eeab/",
+      "region": "pl",
+      "reward_url": null
+    },
+    {
+      "id": 8110,
+      "title": "kontroler ROG Raikiri Pro",
+      "status": 1,
+      "cost": 3500,
+      "type": 3,
+      "image": "https://dlcdnwebimgs.asus.com/gain/c6f4cf47-caaf-448e-8eb2-4dfca165269d/",
       "region": "pl",
       "reward_url": null
     },
